@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123363020777",
+    "project_id": "singify-project",
+    "storage_bucket": "singify-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123363020777:android:7c410c80e51a0924bec578",
+        "android_client_info": {
+          "package_name": "com.example.singify_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123363020777-rhj4if5c7pmtjso17vtkrg4jmvicphg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJcM2khAu10OTKWdW-f24IyaaTOFImp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123363020777-rhj4if5c7pmtjso17vtkrg4jmvicphg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
