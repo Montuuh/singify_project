@@ -14,30 +14,33 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    final db = FirebaseFirestore.instance;
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: Scaffold(
-        body: StreamBuilder(
-          stream: db.doc("/users/dmontufo@gmail.com").snapshots(),
-          builder: (
-            BuildContext context,
-            AsyncSnapshot<DocumentSnapshot<Map<String, dynamic>>> snapshot,
-          ) {
-            if (!snapshot.hasData) {
-              return const Center(child: CircularProgressIndicator());
-            }
-            final doc = snapshot.data!.data();
-            if (doc != null) {
-              return Center(child: Text(doc['password']));
-            } else {
-              return const Center(child: Text("doc is null!"));
-            }
-          },
-        ),
+      title: 'Singify',
+      home: firebaseConexion(),
+    );
+  }
+}
+
+class firebaseConexion extends StatelessWidget {
+  Widget build(BuildContext context) {
+    final db = FirebaseFirestore.instance;
+    return Scaffold(
+      body: StreamBuilder(
+        stream: db.doc("/users/dmontufo@gmail.com").snapshots(),
+        builder: (
+          BuildContext context,
+          AsyncSnapshot<DocumentSnapshot<Map<String, dynamic>>> snapshot,
+        ) {
+          if (!snapshot.hasData) {
+            return const Center(child: CircularProgressIndicator());
+          }
+          final doc = snapshot.data!.data();
+          if (doc != null) {
+            return Center(child: Text(doc['password']));
+          } else {
+            return const Center(child: Text("doc is null!"));
+          }
+        },
       ),
     );
   }
