@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class firebaseConexion extends StatelessWidget {
+class FirebaseConexion extends StatelessWidget {
   Widget build(BuildContext context) {
     final db = FirebaseFirestore.instance;
     return Scaffold(
