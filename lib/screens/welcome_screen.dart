@@ -12,7 +12,7 @@ class WelcomeScreen extends StatelessWidget {
         ),
         ElevatedButton(
           onPressed: () {},
-          child: Text("Sign Up"),
+          child: Text("hrllo Up"),
         ),
       ],
     );
