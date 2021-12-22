@@ -1,6 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutterfire_ui/auth.dart';
 
 class AuthGate extends StatelessWidget {
@@ -17,11 +16,6 @@ class AuthGate extends StatelessWidget {
             home: SignInScreen(
               providerConfigs: [
                 EmailProviderConfiguration(),
-                /*
-                GoogleProviderConfiguration(
-                  clientId: dotenv.env['GOOGLE_SIGNIN_CLIENT_ID'] ?? "",
-                ),
-                */
               ],
             ),
           );
