@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:singify_project/model/user.dart';
 
 class HomeScreen extends StatelessWidget {
   final String userEmail;
@@ -27,10 +28,10 @@ class HomeScreen extends StatelessWidget {
                     return const Center(child: CircularProgressIndicator());
                   }
                   if (snapshot.data!.data() != null) {
-                    return Text('$userEmail is now in our firebase cloud!');
+                    return Text('$userEmail is now in our firestore cloud!');
                   } else {
                     addUser(userEmail);
-                    return Text('$userEmail is not in firebase!');
+                    return Text('$userEmail is not in firestore!');
                   }
                 }),
             Row(
@@ -51,15 +52,4 @@ class HomeScreen extends StatelessWidget {
       ),
     );
   }
-}
-
-void addUser(String userEmail) {
-  final db = FirebaseFirestore.instance;
-  db.doc('/users/$userEmail').set({});
-  db.collection('/users/$userEmail/likes').add({});
-}
-
-void deleteUser(String userEmail) {
-  final db = FirebaseFirestore.instance;
-  db.doc('/users/$userEmail').delete();
 }
