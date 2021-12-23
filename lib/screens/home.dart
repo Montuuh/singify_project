@@ -28,10 +28,10 @@ class HomeScreen extends StatelessWidget {
                     return const Center(child: CircularProgressIndicator());
                   }
                   if (snapshot.data!.data() != null) {
-                    return Text('$userEmail is now in our firestore cloud!');
+                    return Text('"$userEmail" is now in our firestore cloud!');
                   } else {
                     addUser(userEmail);
-                    return Text('$userEmail is not in firestore!');
+                    return Text('"$userEmail" is not in firestore!');
                   }
                 }),
             Row(
