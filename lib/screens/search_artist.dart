@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 class SearchArtistScreen extends StatelessWidget {
-  const SearchArtistScreen({Key? key}) : super(key: key);
+  final String userEmail;
+  const SearchArtistScreen({Key? key, required this.userEmail})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {

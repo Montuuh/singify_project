@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:singify_project/widgets/auth_gate.dart';
-import 'package:singify_project/widgets/screen_manager.dart';
+import 'package:singify_project/screens/screen_manager.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -19,9 +20,10 @@ class SingifyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    final user = FirebaseAuth.instance.currentUser!;
+    return MaterialApp(
       title: 'Singify',
-      home: ScreenManager(),
+      home: ScreenManager(userEmail: user.email.toString()),
     );
   }
 }

@@ -1,31 +1,64 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
-class MainScreen extends StatelessWidget {
-  const MainScreen({Key? key}) : super(key: key);
+class HomeScreen extends StatelessWidget {
+  final String userEmail;
+  const HomeScreen({Key? key, required this.userEmail}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    final user = FirebaseAuth.instance.currentUser!;
     return Scaffold(
       appBar: AppBar(
         title: const Text('Home'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: Row(
+        child: Column(
           children: [
-            Text(user.email.toString()),
-            IconButton(
-              icon: const Icon(Icons.logout),
-              tooltip: 'Log out',
-              onPressed: () {
-                FirebaseAuth.instance.signOut();
-              },
+            StreamBuilder(
+                stream: FirebaseFirestore.instance
+                    .doc("/users/$userEmail")
+                    .snapshots(),
+                builder: (BuildContext context,
+                    AsyncSnapshot<DocumentSnapshot<Map<String, dynamic>>>
+                        snapshot) {
+                  if (!snapshot.hasData) {
+                    return const Center(child: CircularProgressIndicator());
+                  }
+                  if (snapshot.data!.data() != null) {
+                    return Text('$userEmail is now in our firebase cloud!');
+                  } else {
+                    addUser(userEmail);
+                    return Text('$userEmail is not in firebase!');
+                  }
+                }),
+            Row(
+              children: [
+                const Text('Log out:'),
+                IconButton(
+                  alignment: Alignment.centerLeft,
+                  icon: const Icon(Icons.logout),
+                  tooltip: 'Log out',
+                  onPressed: () {
+                    FirebaseAuth.instance.signOut();
+                  },
+                ),
+              ],
             ),
           ],
         ),
       ),
     );
   }
+}
+
+void addUser(String userEmail) {
+  final db = FirebaseFirestore.instance;
+  db.doc('/users/$userEmail').set({});
+}
+
+void deleteUser(String userEmail) {
+  final db = FirebaseFirestore.instance;
+  db.doc('/users/$userEmail').delete();
 }
