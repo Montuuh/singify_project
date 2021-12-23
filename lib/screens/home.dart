@@ -56,6 +56,7 @@ class HomeScreen extends StatelessWidget {
 void addUser(String userEmail) {
   final db = FirebaseFirestore.instance;
   db.doc('/users/$userEmail').set({});
+  db.collection('/users/$userEmail/likes').add({});
 }
 
 void deleteUser(String userEmail) {
