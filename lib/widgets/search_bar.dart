@@ -38,22 +38,25 @@ class _SearchBarState extends State<SearchBar> {
           snap: false,
           centerTitle: false,
           flexibleSpace: Center(
-            child: Container(
-              margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-              height: 40,
-              color: Colors.white10,
-              child: Center(
-                  child: TextField(
-                decoration: InputDecoration(
-                  hintText: widget.hintText,
-                  prefixIcon: const Icon(Icons.search),
-                  //suffixIcon: Icon(Icons.camera_alt),
-                ),
-                //controller: _controller,
-                onSubmitted: (String value) {
-                  _textTyped = value;
-                },
-              )),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              child: Container(
+                //margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                height: 40,
+                color: Colors.white10,
+                child: Center(
+                    child: TextField(
+                  decoration: InputDecoration(
+                    hintText: widget.hintText,
+                    prefixIcon: const Icon(Icons.search),
+                    //suffixIcon: Icon(Icons.camera_alt),
+                  ),
+                  //controller: _controller,
+                  onSubmitted: (String value) {
+                    _textTyped = value;
+                  },
+                )),
+              ),
             ),
           ),
         ),
