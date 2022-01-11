@@ -41,7 +41,7 @@ class _SearchBarState extends State<SearchBar> {
             child: Container(
               margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
               height: 40,
-              color: Colors.white,
+              color: Colors.white10,
               child: Center(
                   child: TextField(
                 decoration: InputDecoration(

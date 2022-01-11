@@ -17,6 +17,8 @@ class _SearchArtistScreenState extends State<SearchArtistScreen> {
       appBar: AppBar(
         title: const Text('Search Artist'),
         automaticallyImplyLeading: false,
+        foregroundColor: Theme.of(context).primaryColor,
+        backgroundColor: Theme.of(context).backgroundColor,
       ),
       body: const SearchBar(
         hintText: 'Type an artist name...',

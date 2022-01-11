@@ -22,6 +22,18 @@ class SingifyApp extends StatelessWidget {
     final user = FirebaseAuth.instance.currentUser!;
     return MaterialApp(
       title: 'Singify',
+      theme: ThemeData(
+        // Define the default brightness and colors.
+        brightness: Brightness.dark,
+        backgroundColor: Colors.black87,
+        primaryColor: Colors.amber[800],
+
+        // Define the default font family.
+        fontFamily: 'Georgia',
+
+        // Define the default `TextTheme`. Use this to specify the default
+        // text styling for headlines, titles, bodies of text, and more.
+      ),
       home: ScreenManager(userEmail: user.email.toString()),
     );
   }

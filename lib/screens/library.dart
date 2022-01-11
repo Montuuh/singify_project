@@ -9,6 +9,8 @@ class LibraryScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Library'),
+        foregroundColor: Theme.of(context).primaryColor,
+        backgroundColor: Theme.of(context).backgroundColor,
       ),
     );
   }
