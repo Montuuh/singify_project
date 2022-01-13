@@ -1,0 +1,3815 @@
+{
+    "linkRealPage": "https://www.discogs.com/es/release/892043-Michael-Jackson-The-Essential-Michael-Jackson",
+    "id": 892043,
+    "status": "Accepted",
+    "year": 2005,
+    "resource_url": "https://api.discogs.com/releases/892043",
+    "uri": "https://www.discogs.com/release/892043-Michael-Jackson-The-Essential-Michael-Jackson",
+    "artists": [
+        {
+            "name": "Michael Jackson",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        }
+    ],
+    "artists_sort": "Michael Jackson",
+    "labels": [
+        {
+            "name": "Epic",
+            "catno": "520422 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1005,
+            "resource_url": "https://api.discogs.com/labels/1005"
+        },
+        {
+            "name": "Legacy",
+            "catno": "520422 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 15491,
+            "resource_url": "https://api.discogs.com/labels/15491"
+        },
+        {
+            "name": "MJJ Productions",
+            "catno": "520422 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 143537,
+            "resource_url": "https://api.discogs.com/labels/143537"
+        },
+        {
+            "name": "Epic",
+            "catno": "5204222001",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1005,
+            "resource_url": "https://api.discogs.com/labels/1005"
+        },
+        {
+            "name": "Legacy",
+            "catno": "5204222001",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 15491,
+            "resource_url": "https://api.discogs.com/labels/15491"
+        },
+        {
+            "name": "MJJ Productions",
+            "catno": "5204222001",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 143537,
+            "resource_url": "https://api.discogs.com/labels/143537"
+        },
+        {
+            "name": "Epic",
+            "catno": "EPC520422 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1005,
+            "resource_url": "https://api.discogs.com/labels/1005"
+        },
+        {
+            "name": "Legacy",
+            "catno": "EPC520422 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 15491,
+            "resource_url": "https://api.discogs.com/labels/15491"
+        },
+        {
+            "name": "MJJ Productions",
+            "catno": "EPC520422 2",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 143537,
+            "resource_url": "https://api.discogs.com/labels/143537"
+        }
+    ],
+    "series": [
+        {
+            "name": "The Essential (4)",
+            "catno": "",
+            "entity_type": "2",
+            "entity_type_name": "Series",
+            "id": 656087,
+            "resource_url": "https://api.discogs.com/labels/656087"
+        }
+    ],
+    "companies": [
+        {
+            "name": "Motown Records",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 61002,
+            "resource_url": "https://api.discogs.com/labels/61002"
+        },
+        {
+            "name": "Sony BMG Music Entertainment",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 53569,
+            "resource_url": "https://api.discogs.com/labels/53569"
+        },
+        {
+            "name": "MJJ Productions Inc.",
+            "catno": "",
+            "entity_type": "13",
+            "entity_type_name": "Phonographic Copyright (p)",
+            "id": 285412,
+            "resource_url": "https://api.discogs.com/labels/285412"
+        },
+        {
+            "name": "MJJ Productions Inc.",
+            "catno": "",
+            "entity_type": "14",
+            "entity_type_name": "Copyright (c)",
+            "id": 285412,
+            "resource_url": "https://api.discogs.com/labels/285412"
+        },
+        {
+            "name": "UMG Recordings, Inc.",
+            "catno": "",
+            "entity_type": "4",
+            "entity_type_name": "Record Company",
+            "id": 272782,
+            "resource_url": "https://api.discogs.com/labels/272782"
+        },
+        {
+            "name": "Universal Music Enterprises",
+            "catno": "",
+            "entity_type": "6",
+            "entity_type_name": "Licensed From",
+            "id": 276180,
+            "resource_url": "https://api.discogs.com/labels/276180"
+        },
+        {
+            "name": "Quincy Jones Productions",
+            "catno": "",
+            "entity_type": "37",
+            "entity_type_name": "Produced For",
+            "id": 600469,
+            "resource_url": "https://api.discogs.com/labels/600469"
+        },
+        {
+            "name": "MJJ Productions Inc.",
+            "catno": "",
+            "entity_type": "37",
+            "entity_type_name": "Produced For",
+            "id": 285412,
+            "resource_url": "https://api.discogs.com/labels/285412"
+        },
+        {
+            "name": "Record One, Los Angeles",
+            "catno": "",
+            "entity_type": "23",
+            "entity_type_name": "Recorded At",
+            "id": 282279,
+            "resource_url": "https://api.discogs.com/labels/282279"
+        },
+        {
+            "name": "Sony Music Studios, New York City",
+            "catno": "",
+            "entity_type": "23",
+            "entity_type_name": "Recorded At",
+            "id": 295805,
+            "resource_url": "https://api.discogs.com/labels/295805"
+        },
+        {
+            "name": "Sony Music Studios, New York City",
+            "catno": "",
+            "entity_type": "29",
+            "entity_type_name": "Mastered At",
+            "id": 295805,
+            "resource_url": "https://api.discogs.com/labels/295805"
+        },
+        {
+            "name": "Marvin's Room",
+            "catno": "",
+            "entity_type": "27",
+            "entity_type_name": "Mixed At",
+            "id": 285821,
+            "resource_url": "https://api.discogs.com/labels/285821"
+        },
+        {
+            "name": "The Hit Factory Criteria",
+            "catno": "",
+            "entity_type": "27",
+            "entity_type_name": "Mixed At",
+            "id": 277730,
+            "resource_url": "https://api.discogs.com/labels/277730"
+        },
+        {
+            "name": "Sony Music",
+            "catno": "",
+            "entity_type": "17",
+            "entity_type_name": "Pressed By",
+            "id": 25487,
+            "resource_url": "https://api.discogs.com/labels/25487"
+        }
+    ],
+    "formats": [
+        {
+            "name": "CD",
+            "qty": "2",
+            "descriptions": [
+                "Compilation"
+            ]
+        }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+        "have": 1296,
+        "want": 116,
+        "rating": {
+            "count": 121,
+            "average": 4.45
+        },
+        "submitter": {
+            "username": "Julz72",
+            "resource_url": "https://api.discogs.com/users/Julz72"
+        },
+        "contributors": [
+            {
+                "username": "Julz72",
+                "resource_url": "https://api.discogs.com/users/Julz72"
+            },
+            {
+                "username": "arjen",
+                "resource_url": "https://api.discogs.com/users/arjen"
+            },
+            {
+                "username": "sugus4me",
+                "resource_url": "https://api.discogs.com/users/sugus4me"
+            },
+            {
+                "username": "sjcee",
+                "resource_url": "https://api.discogs.com/users/sjcee"
+            },
+            {
+                "username": "alboss",
+                "resource_url": "https://api.discogs.com/users/alboss"
+            },
+            {
+                "username": "traumasantidote",
+                "resource_url": "https://api.discogs.com/users/traumasantidote"
+            },
+            {
+                "username": "shivae",
+                "resource_url": "https://api.discogs.com/users/shivae"
+            },
+            {
+                "username": "mick.eins",
+                "resource_url": "https://api.discogs.com/users/mick.eins"
+            },
+            {
+                "username": "stenil",
+                "resource_url": "https://api.discogs.com/users/stenil"
+            },
+            {
+                "username": "85richard",
+                "resource_url": "https://api.discogs.com/users/85richard"
+            },
+            {
+                "username": "DiscogsUpdateBot",
+                "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+            },
+            {
+                "username": "jweijde",
+                "resource_url": "https://api.discogs.com/users/jweijde"
+            },
+            {
+                "username": "aseljak",
+                "resource_url": "https://api.discogs.com/users/aseljak"
+            },
+            {
+                "username": "Larsern",
+                "resource_url": "https://api.discogs.com/users/Larsern"
+            },
+            {
+                "username": "pierre100478",
+                "resource_url": "https://api.discogs.com/users/pierre100478"
+            },
+            {
+                "username": "Gorgyporgy",
+                "resource_url": "https://api.discogs.com/users/Gorgyporgy"
+            },
+            {
+                "username": "doublecoagulation",
+                "resource_url": "https://api.discogs.com/users/doublecoagulation"
+            },
+            {
+                "username": "brownjai",
+                "resource_url": "https://api.discogs.com/users/brownjai"
+            },
+            {
+                "username": "DISCOCLASSICS",
+                "resource_url": "https://api.discogs.com/users/DISCOCLASSICS"
+            },
+            {
+                "username": "confusInk",
+                "resource_url": "https://api.discogs.com/users/confusInk"
+            },
+            {
+                "username": "UWB",
+                "resource_url": "https://api.discogs.com/users/UWB"
+            },
+            {
+                "username": "hivefive200",
+                "resource_url": "https://api.discogs.com/users/hivefive200"
+            },
+            {
+                "username": "MagicLife",
+                "resource_url": "https://api.discogs.com/users/MagicLife"
+            },
+            {
+                "username": "menoemanoa",
+                "resource_url": "https://api.discogs.com/users/menoemanoa"
+            }
+        ],
+        "data_quality": "Needs Vote",
+        "status": "Accepted"
+    },
+    "format_quantity": 2,
+    "date_added": "2007-06-15T11:47:07-07:00",
+    "date_changed": "2021-02-13T18:10:12-08:00",
+    "num_for_sale": 85,
+    "lowest_price": 1.19,
+    "master_id": 35097,
+    "master_url": "https://api.discogs.com/masters/35097",
+    "title": "The Essential Michael Jackson",
+    "country": "Europe",
+    "released": "2005",
+    "notes": "Issued in Standard 2CD Jewel Case\nThis release contains a extra track \"YOU ARE NOT ALONE\" (2-14)\nSony BMG Music Entertainment is mentioned !\nDisc face rim: Made in Austria.\n\nSome copies may include a hype sticker with red text and a white background on the front of the jewel case: 'Michael Jackson THE COMPLETE JOURNEY from The Jackson 5 to The King Of Pop 38 Tracks, 2 CDs, 1 Essential Collection 5204222'.\n\nmjjsource.com\nmichaeljackson.com\n\n\u00a9 2005 MJJ Productions Inc.\n\u2117 1972 Motown Records, a division of UMG Recording Inc. \n1978, 1983 Sony BMG Music Entertainment, \n1979, 1982, 1987, 1991, 1995, 2001, 2005 MJJ Productions Inc.\nThis package consists of previously released material.\n520422201 - EPC520422 2\n\nCD version of [url=http://www.discogs.com/release/706187]The Essential Michael Jackson (2xLP)[/url].\n\nNote on backside:\nMichael Jackson has been entertaining the world with his incredible musical talent, unequaled dance moves and ground-breaking creativity for over 4 decades. With three #1 smash hits by the time he was 11 years old, to being the first black artist to break the barriers and dominate MTV with his incredible short films, Michael Jackson never ceases to amaze his fans around the world. Now for the first time EVER, take a special journey through the career and musical genius of Michael Jackson from his early recordings with the Jackson 5 to his latest musical works. Listen to the King Of Pop...it's essential.",
+    "released_formatted": "2005",
+    "identifiers": [
+        {
+            "type": "Barcode",
+            "value": "5 099752 042227",
+            "description": "Text"
+        },
+        {
+            "type": "Barcode",
+            "value": "5099752042227",
+            "description": "Scanned"
+        },
+        {
+            "type": "Label Code",
+            "value": "LC 00199"
+        },
+        {
+            "type": "Rights Society",
+            "value": "BIEM/GEMA"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 31",
+            "description": "CD1, variant 1"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 1"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 947C",
+            "description": "CD1, variant 1"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 71 A03",
+            "description": "CD1, variant 2"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 2"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 948R",
+            "description": "CD1, variant 2"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music 55204222001-0102 31 A16",
+            "description": "CD1, variant 3"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 3"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 946S",
+            "description": "CD1, variant 3"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "S5204222001-0102 64 A6",
+            "description": "CD1, variant 4"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 4"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 944N",
+            "description": "CD1, variant 4"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 71 B11",
+            "description": "CD1, variant 5"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 5"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 94Y4",
+            "description": "CD1, variant 5"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 71 A20",
+            "description": "CD1, variant 6"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 6"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 94K7",
+            "description": "CD1, variant 6"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 21 A2",
+            "description": "CD1, variant 7"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 7"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 947C",
+            "description": "CD1, variant 7"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 71 B19",
+            "description": "CD1, variant 8"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 8"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 942S",
+            "description": "CD1, variant 8"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 21 A6",
+            "description": "CD1, variant 9"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 9"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 941T",
+            "description": "CD1, variant 9"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 31 A12",
+            "description": "CD1, variant 10"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD1, variant 10"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 946R",
+            "description": "CD1, variant 10"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 24",
+            "description": "CD2, variant 1"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 1"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 946S",
+            "description": "CD2, variant 1"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 51 A2",
+            "description": "CD2, variant 2"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 2"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 948P",
+            "description": "CD2, variant 2"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 24 A21",
+            "description": "CD2, variant 3"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L554",
+            "description": "CD2, variant 3"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 944S",
+            "description": "CD2, variant 3"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "S5204222001-0202 41 A7",
+            "description": "CD2, variant 4"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 4"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 941T",
+            "description": "CD2, variant 4"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 81 A11",
+            "description": "CD2, variant 5"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 5"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 941Q",
+            "description": "CD2, variant 5"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 81 A15",
+            "description": "CD2, variant 6"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 6"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 94Z2",
+            "description": "CD2, variant 6"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 11 B2",
+            "description": "CD2, variant 7"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 7"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 942Q",
+            "description": "CD2, variant 7"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 81 A07",
+            "description": "CD2, variant 8"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 8"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 941S",
+            "description": "CD2, variant 8"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0202 11 A1",
+            "description": "CD2, variant 9"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L551",
+            "description": "CD2, variant 9"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 944A",
+            "description": "CD2, variant 9"
+        },
+        {
+            "type": "Matrix / Runout",
+            "value": "Sony Music S5204222001-0102 24 A5",
+            "description": "CD2, variant 10"
+        },
+        {
+            "type": "Mastering SID Code",
+            "value": "IFPI L554",
+            "description": "CD2, variant 10"
+        },
+        {
+            "type": "Mould SID Code",
+            "value": "IFPI 943S",
+            "description": "CD2, variant 10"
+        }
+    ],
+    "videos": [
+        {
+            "uri": "https://www.youtube.com/watch?v=rtdtroCdNu0",
+            "title": "The Essential Michael Jackson (Full album)",
+            "description": "Requested by @MJfansclub\nInformation from Wikipedia:\nThe Essential Michael Jackson is a greatest hits compilation album by American singer Michael Jackson. It was released on July 19, 2005, by Sony Music's catalog division Legacy Recordings as part of The",
+            "duration": 8761,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=QWKYo_ZjC_E",
+            "title": "M\u035fi\u035fc\u035fh\u035fa\u035fe\u035fl\u035f \u035fJ\u035fa\u035fc\u035fk\u035fs\u035fo\u035fn\u035f : The Essential M.i.c.h.a.e.l J.a.c.k.s.o.n - 2005 [Full Album]",
+            "description": "M\u035fi\u035fc\u035fh\u035fa\u035fe\u035fl\u035f \u035fJ\u035fa\u035fc\u035fk\u035fs\u035fo\u035fn\u035f : The Essential M.i.c.h.a.e.l J.a.c.k.s.o.n - 2005 [Full Album]\nM\u035fi\u035fc\u035fh\u035fa\u035fe\u035fl\u035f \u035fJ\u035fa\u035fc\u035fk\u035fs\u035fo\u035fn\u035f : The Essential M.i.c.h.a.e.l J.a.c.k.s.o.n - 2005 [Full Album]\nM\u035fi\u035fc\u035fh\u035fa\u035fe\u035fl\u035f \u035fJ\u035fa\u035fc\u035fk",
+            "duration": 5574,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=QobUtqWD2fg",
+            "title": "06 - Michael Jackson - The Essential CD2 - Smooth Criminal",
+            "description": "Michael Jackson\r\nThe Essential CD2\r\nTrack 6\r\nSmooth Criminal\r\n2005\r\nComments Please(:\r\n\r\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 258,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=2-mUsfqMfr8",
+            "title": "11 - Michael Jackson - The Essential CD2 - Who Is It",
+            "description": "Michael Jackson\r\nThe Essential CD2\r\nTrack 11\r\nWho Is It\r\n2005\r\nComments Please(:\r\n\r\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 240,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=7vr1xjMD9mQ",
+            "title": "08 - Michael Jackson - The Essential CD2 - Black Or White",
+            "description": "Michael Jackson\r\nThe Essential CD2\r\nTrack 8\r\nBlack Or White\r\n2005\r\nComments Please(:\r\n\r\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 202,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=K8pHIBb_Jgw",
+            "title": "15 - Michael Jackson - The Essential CD1 - Billie Jean",
+            "description": "Michael Jackson\nThe Essential CD1\nTrack 15\nBillie Jean\n2005\nComments Please(:\n\n\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 294,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=xjVkX2CEGNQ",
+            "title": "16 - Michael Jackson - The Essential CD2 - They Dont Care About Us",
+            "description": "Michael Jackson\r\nThe Essential CD2\r\nTrack 16\r\nThey Dont Care About Us\r\n2005\r\nComments Please(:\r\n\r\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 285,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=2CpLh8GBFCY",
+            "title": "16 - Michael Jackson - The Essential CD1 - Beat It",
+            "description": "Michael Jackson\nThe Essential CD1\nTrack 16\nBeat It\n2005\nComments Please(:\n\n\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 259,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=n33hU2Fh2xM",
+            "title": "02 - Michael Jackson - The Essential CD2 - The Way You Make Me Feel",
+            "description": "Michael Jackson\r\nThe Essential CD2\r\nTrack 2\r\nThe Way You Make Me Feel\r\n2005\r\nComments Please(:\r\n\r\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 267,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=QgaE_9xdX68",
+            "title": "09 - Michael Jackson - The Essential CD2 - Remember The Time",
+            "description": "Michael Jackson\r\nThe Essential CD2\r\nTrack 9\r\nRemember The Time\r\n2005\r\nComments Please(:\r\n\r\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 241,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=QGjVR2NVmPY",
+            "title": "05 - Michael Jackson - The Essential CD2 - Another Part Of Me",
+            "description": "Michael Jackson\r\nThe Essential CD2\r\nTrack 5\r\nAnother Part Of Me\r\n2005\r\nComments Please(:\r\n\r\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 227,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=Fkc4mlM4cG8",
+            "title": "11 - Michael Jackson - The Essential CD1 - Rock With You",
+            "description": "Michael Jackson\nThe Essential CD1\nTrack 11\nRock With You\n2005\nComments Please(:\n\n\nMichael Joseph Jackson (August 29, 1958  June 25, 2009) R.I.P",
+            "duration": 204,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=qEwYjfdwvGE",
+            "title": "TODO sobre el \u00e1lbum THE ESSENTIAL MICHAEL JACKSON | MoonwalkerTV#136",
+            "description": "\u00bfQUIERES SABER M\u00c1S SOBRE LAS CANCIONES Y VIDEOS DE MICHAEL JACKSON? ENTRA AQU\u00cd  ? https://goo.gl/TBhpxX\n\n\u00bfQUIERES SABER M\u00c1S SOBRE LAS CANCIONES Y VIDEOS DE MICHAEL JACKSON? ENTRA AQU\u00cd  ? https://goo.gl/TBhpxX\n\n? SUSCR\u00cdBETE AQU\u00cd: ? http",
+            "duration": 685,
+            "embed": true
+        }
+    ],
+    "genres": [
+        "Electronic",
+        "Rock",
+        "Funk / Soul",
+        "Pop"
+    ],
+    "styles": [
+        "Pop Rock",
+        "Synth-pop",
+        "Disco"
+    ],
+    "tracklist": [
+        {
+            "position": "1-1",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "The Jackson 5",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 41157,
+                    "resource_url": "https://api.discogs.com/artists/41157"
+                }
+            ],
+            "title": "I Want You Back",
+            "duration": "2:58"
+        },
+        {
+            "position": "1-2",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "The Jackson 5",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 41157,
+                    "resource_url": "https://api.discogs.com/artists/41157"
+                }
+            ],
+            "title": "ABC",
+            "duration": "2:57"
+        },
+        {
+            "position": "1-3",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "The Jackson 5",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 41157,
+                    "resource_url": "https://api.discogs.com/artists/41157"
+                }
+            ],
+            "title": "The Love You Save",
+            "duration": "3:05"
+        },
+        {
+            "position": "1-4",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Got To Be There",
+            "extraartists": [
+                {
+                    "name": "Hal Davis",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 160523,
+                    "resource_url": "https://api.discogs.com/artists/160523"
+                },
+                {
+                    "name": "Elliot Willensky",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 286483,
+                    "resource_url": "https://api.discogs.com/artists/286483"
+                }
+            ],
+            "duration": "3:25"
+        },
+        {
+            "position": "1-5",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Rockin' Robin",
+            "extraartists": [
+                {
+                    "name": "Jerry Marcellino",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 278736,
+                    "resource_url": "https://api.discogs.com/artists/278736"
+                },
+                {
+                    "name": "Mel Larson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 278737,
+                    "resource_url": "https://api.discogs.com/artists/278737"
+                },
+                {
+                    "name": "Jimmie Thomas",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 849888,
+                    "resource_url": "https://api.discogs.com/artists/849888"
+                }
+            ],
+            "duration": "2:32"
+        },
+        {
+            "position": "1-6",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Ben",
+            "extraartists": [
+                {
+                    "name": "Don Black",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 383080,
+                    "resource_url": "https://api.discogs.com/artists/383080"
+                },
+                {
+                    "name": "Walter Scharf",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 254220,
+                    "resource_url": "https://api.discogs.com/artists/254220"
+                }
+            ],
+            "duration": "2:46"
+        },
+        {
+            "position": "1-7",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "The Jacksons",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 169154,
+                    "resource_url": "https://api.discogs.com/artists/169154"
+                }
+            ],
+            "title": "Blame It On The Boogie",
+            "extraartists": [
+                {
+                    "name": "Gary King",
+                    "anv": "",
+                    "join": "",
+                    "role": "Bass",
+                    "tracks": "",
+                    "id": 200771,
+                    "resource_url": "https://api.discogs.com/artists/200771"
+                },
+                {
+                    "name": "Nathan Watts",
+                    "anv": "",
+                    "join": "",
+                    "role": "Bass",
+                    "tracks": "",
+                    "id": 299379,
+                    "resource_url": "https://api.discogs.com/artists/299379"
+                },
+                {
+                    "name": "Claudio Slon",
+                    "anv": "",
+                    "join": "",
+                    "role": "Congas",
+                    "tracks": "",
+                    "id": 326082,
+                    "resource_url": "https://api.discogs.com/artists/326082"
+                },
+                {
+                    "name": "Laudir De Oliveira",
+                    "anv": "",
+                    "join": "",
+                    "role": "Congas",
+                    "tracks": "",
+                    "id": 376076,
+                    "resource_url": "https://api.discogs.com/artists/376076"
+                },
+                {
+                    "name": "Rick Marotta",
+                    "anv": "Rick Morotta",
+                    "join": "",
+                    "role": "Drums, Percussion",
+                    "tracks": "",
+                    "id": 258114,
+                    "resource_url": "https://api.discogs.com/artists/258114"
+                },
+                {
+                    "name": "Don Murray",
+                    "anv": "",
+                    "join": "",
+                    "role": "Engineer, Mixed By",
+                    "tracks": "",
+                    "id": 234325,
+                    "resource_url": "https://api.discogs.com/artists/234325"
+                },
+                {
+                    "name": "Peter Granet",
+                    "anv": "",
+                    "join": "",
+                    "role": "Engineer, Mixed By",
+                    "tracks": "",
+                    "id": 439715,
+                    "resource_url": "https://api.discogs.com/artists/439715"
+                },
+                {
+                    "name": "Michael Sembello",
+                    "anv": "Mike Sembello",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 94940,
+                    "resource_url": "https://api.discogs.com/artists/94940"
+                },
+                {
+                    "name": "Roland Bautista",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 276520,
+                    "resource_url": "https://api.discogs.com/artists/276520"
+                },
+                {
+                    "name": "Tito Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 175556,
+                    "resource_url": "https://api.discogs.com/artists/175556"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Keyboards",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "Dave Jackson (2)",
+                    "anv": "David Jackson-Rich",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 492396,
+                    "resource_url": "https://api.discogs.com/artists/492396"
+                },
+                {
+                    "name": "Elmar Krohn",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 643265,
+                    "resource_url": "https://api.discogs.com/artists/643265"
+                },
+                {
+                    "name": "Hans Kampschroer",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 940847,
+                    "resource_url": "https://api.discogs.com/artists/940847"
+                },
+                {
+                    "name": "Mick Jackson",
+                    "anv": "Michael J. Jackson-Clark",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 87624,
+                    "resource_url": "https://api.discogs.com/artists/87624"
+                },
+                {
+                    "name": "Thomas Meyer (3)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 389173,
+                    "resource_url": "https://api.discogs.com/artists/389173"
+                }
+            ],
+            "duration": "3:30"
+        },
+        {
+            "position": "1-8",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "The Jacksons",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 169154,
+                    "resource_url": "https://api.discogs.com/artists/169154"
+                }
+            ],
+            "title": "Shake Your Body (Down To The Ground)",
+            "extraartists": [
+                {
+                    "name": "Tom Tom 84",
+                    "anv": "Tom Tom \"84\"",
+                    "join": "",
+                    "role": "Arranged By [Horns And Strings]",
+                    "tracks": "",
+                    "id": 277890,
+                    "resource_url": "https://api.discogs.com/artists/277890"
+                },
+                {
+                    "name": "The Jacksons",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals]",
+                    "tracks": "",
+                    "id": 169154,
+                    "resource_url": "https://api.discogs.com/artists/169154"
+                },
+                {
+                    "name": "Ed Greene (2)",
+                    "anv": "Ed Green",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 508304,
+                    "resource_url": "https://api.discogs.com/artists/508304"
+                },
+                {
+                    "name": "Don Murray",
+                    "anv": "",
+                    "join": "",
+                    "role": "Engineer, Mixed By",
+                    "tracks": "",
+                    "id": 234325,
+                    "resource_url": "https://api.discogs.com/artists/234325"
+                },
+                {
+                    "name": "Peter Granet",
+                    "anv": "",
+                    "join": "",
+                    "role": "Engineer, Mixed By",
+                    "tracks": "",
+                    "id": 439715,
+                    "resource_url": "https://api.discogs.com/artists/439715"
+                },
+                {
+                    "name": "Tito Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 175556,
+                    "resource_url": "https://api.discogs.com/artists/175556"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Keyboards",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Keyboards, Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "Michael J. Jackson",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Randy Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 239453,
+                    "resource_url": "https://api.discogs.com/artists/239453"
+                }
+            ],
+            "duration": "3:45"
+        },
+        {
+            "position": "1-9",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Don't Stop 'Til You Get Enough",
+            "extraartists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Percussion]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Benjamin Wright",
+                    "anv": "Ben Wright",
+                    "join": "",
+                    "role": "Arranged By [Strings]",
+                    "tracks": "",
+                    "id": 359093,
+                    "resource_url": "https://api.discogs.com/artists/359093"
+                },
+                {
+                    "name": "Augie Johnson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals [Additional]",
+                    "tracks": "",
+                    "id": 302528,
+                    "resource_url": "https://api.discogs.com/artists/302528"
+                },
+                {
+                    "name": "Jim Gilstrap",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals [Additional]",
+                    "tracks": "",
+                    "id": 219823,
+                    "resource_url": "https://api.discogs.com/artists/219823"
+                },
+                {
+                    "name": "Mortonette Jenkins",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals [Additional]",
+                    "tracks": "",
+                    "id": 408453,
+                    "resource_url": "https://api.discogs.com/artists/408453"
+                },
+                {
+                    "name": "Paulette McWilliams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals [Additional]",
+                    "tracks": "",
+                    "id": 46601,
+                    "resource_url": "https://api.discogs.com/artists/46601"
+                },
+                {
+                    "name": "Zedric Williams",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals [Additional]",
+                    "tracks": "",
+                    "id": 656206,
+                    "resource_url": "https://api.discogs.com/artists/656206"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "Randy Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 239453,
+                    "resource_url": "https://api.discogs.com/artists/239453"
+                },
+                {
+                    "name": "Richard Heath",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 332623,
+                    "resource_url": "https://api.discogs.com/artists/332623"
+                }
+            ],
+            "duration": "3:56"
+        },
+        {
+            "position": "1-10",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Off The Wall",
+            "extraartists": [
+                {
+                    "name": "Paulinho Da Costa",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 46163,
+                    "resource_url": "https://api.discogs.com/artists/46163"
+                },
+                {
+                    "name": "George Duke",
+                    "anv": "",
+                    "join": "",
+                    "role": "Programmed By [Synthesizer]",
+                    "tracks": "",
+                    "id": 12803,
+                    "resource_url": "https://api.discogs.com/artists/12803"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Programmed By [Synthesizer]",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "George Duke",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 12803,
+                    "resource_url": "https://api.discogs.com/artists/12803"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                }
+            ],
+            "duration": "3:46"
+        },
+        {
+            "position": "1-11",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Rock With You",
+            "extraartists": [
+                {
+                    "name": "Benjamin Wright",
+                    "anv": "Ben Wright",
+                    "join": "",
+                    "role": "Arranged By [Strings]",
+                    "tracks": "",
+                    "id": 359093,
+                    "resource_url": "https://api.discogs.com/artists/359093"
+                },
+                {
+                    "name": "Rod Temperton",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals]",
+                    "tracks": "",
+                    "id": 148175,
+                    "resource_url": "https://api.discogs.com/artists/148175"
+                },
+                {
+                    "name": "Bobby Watson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Bass",
+                    "tracks": "",
+                    "id": 166864,
+                    "resource_url": "https://api.discogs.com/artists/166864"
+                },
+                {
+                    "name": "David \"Hawk\" Wolinski",
+                    "anv": "",
+                    "join": "",
+                    "role": "Electric Piano",
+                    "tracks": "",
+                    "id": 97425,
+                    "resource_url": "https://api.discogs.com/artists/97425"
+                },
+                {
+                    "name": "Greg Phillinganes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 108475,
+                    "resource_url": "https://api.discogs.com/artists/108475"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                }
+            ],
+            "duration": "3:23"
+        },
+        {
+            "position": "1-12",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "She's Out Of My Life",
+            "extraartists": [
+                {
+                    "name": "Johnny Mandel",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Strings]",
+                    "tracks": "",
+                    "id": 263472,
+                    "resource_url": "https://api.discogs.com/artists/263472"
+                },
+                {
+                    "name": "Larry Carlton",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar",
+                    "tracks": "",
+                    "id": 258119,
+                    "resource_url": "https://api.discogs.com/artists/258119"
+                },
+                {
+                    "name": "Tom Bahler",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 255792,
+                    "resource_url": "https://api.discogs.com/artists/255792"
+                }
+            ],
+            "duration": "3:37"
+        },
+        {
+            "position": "1-13",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Can You Feel It",
+            "extraartists": [
+                {
+                    "name": "Tom Tom 84",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Strings]",
+                    "tracks": "",
+                    "id": 277890,
+                    "resource_url": "https://api.discogs.com/artists/277890"
+                },
+                {
+                    "name": "Jackie Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Arranged By",
+                    "tracks": "",
+                    "id": 18948,
+                    "resource_url": "https://api.discogs.com/artists/18948"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "Michael J. Jackson",
+                    "join": "",
+                    "role": "Written-By, Arranged By",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "3:50"
+        },
+        {
+            "position": "1-14",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "&",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Paul McCartney",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 35301,
+                    "resource_url": "https://api.discogs.com/artists/35301"
+                }
+            ],
+            "title": "The Girl Is Mine",
+            "extraartists": [
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Strings], Conductor",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "David Foster",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 79751,
+                    "resource_url": "https://api.discogs.com/artists/79751"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals]",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                },
+                {
+                    "name": "Gerald Vinci",
+                    "anv": "Jerry Vinci",
+                    "join": "",
+                    "role": "Concertmaster",
+                    "tracks": "",
+                    "id": 332622,
+                    "resource_url": "https://api.discogs.com/artists/332622"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Lead Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Paul McCartney",
+                    "anv": "",
+                    "join": "",
+                    "role": "Lead Vocals, Backing Vocals",
+                    "tracks": "",
+                    "id": 35301,
+                    "resource_url": "https://api.discogs.com/artists/35301"
+                }
+            ],
+            "duration": "3:41"
+        },
+        {
+            "position": "1-15",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Billie Jean",
+            "extraartists": [
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Strings]",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Jeremy Lubbock",
+                    "anv": "",
+                    "join": "",
+                    "role": "Conductor [Strings]",
+                    "tracks": "",
+                    "id": 329187,
+                    "resource_url": "https://api.discogs.com/artists/329187"
+                }
+            ],
+            "duration": "4:53"
+        },
+        {
+            "position": "1-16",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Beat It",
+            "duration": "4:18"
+        },
+        {
+            "position": "1-17",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Wanna Be Startin' Somethin'",
+            "extraartists": [
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Horns]",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Horns]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Becky Lopez",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 583241,
+                    "resource_url": "https://api.discogs.com/artists/583241"
+                },
+                {
+                    "name": "Bunny Hull",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 281927,
+                    "resource_url": "https://api.discogs.com/artists/281927"
+                },
+                {
+                    "name": "James Ingram",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 4800,
+                    "resource_url": "https://api.discogs.com/artists/4800"
+                },
+                {
+                    "name": "Julia Waters",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 259386,
+                    "resource_url": "https://api.discogs.com/artists/259386"
+                },
+                {
+                    "name": "Maxine Waters",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 259388,
+                    "resource_url": "https://api.discogs.com/artists/259388"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Oren Waters",
+                    "anv": "",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 112806,
+                    "resource_url": "https://api.discogs.com/artists/112806"
+                }
+            ],
+            "duration": "4:17"
+        },
+        {
+            "position": "1-18",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Human Nature",
+            "extraartists": [
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "Steve Lukather",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By",
+                    "tracks": "",
+                    "id": 272796,
+                    "resource_url": "https://api.discogs.com/artists/272796"
+                },
+                {
+                    "name": "Steve Porcaro",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By",
+                    "tracks": "",
+                    "id": 299163,
+                    "resource_url": "https://api.discogs.com/artists/299163"
+                },
+                {
+                    "name": "John Bettis",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 617010,
+                    "resource_url": "https://api.discogs.com/artists/617010"
+                },
+                {
+                    "name": "Steve Porcaro",
+                    "anv": "Steven Porcaro",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 299163,
+                    "resource_url": "https://api.discogs.com/artists/299163"
+                }
+            ],
+            "duration": "3:46"
+        },
+        {
+            "position": "1-19",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "P.Y.T. (Pretty Young Thing)",
+            "extraartists": [
+                {
+                    "name": "James Ingram",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Arranged By",
+                    "tracks": "",
+                    "id": 4800,
+                    "resource_url": "https://api.discogs.com/artists/4800"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By, Arranged By",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                }
+            ],
+            "duration": "3:58"
+        },
+        {
+            "position": "1-20",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "And",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Siedah Garrett",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 43745,
+                    "resource_url": "https://api.discogs.com/artists/43745"
+                }
+            ],
+            "title": "I Just Can't Stop Loving You",
+            "extraartists": [
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals]",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals [Duet]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Siedah Garrett",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals [Duet]",
+                    "tracks": "",
+                    "id": 43745,
+                    "resource_url": "https://api.discogs.com/artists/43745"
+                }
+            ],
+            "duration": "4:11"
+        },
+        {
+            "position": "1-21",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Thriller",
+            "extraartists": [
+                {
+                    "name": "Rod Temperton",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals, Synthesizer]",
+                    "tracks": "",
+                    "id": 148175,
+                    "resource_url": "https://api.discogs.com/artists/148175"
+                },
+                {
+                    "name": "Bruce Cannon",
+                    "anv": "",
+                    "join": "",
+                    "role": "Effects",
+                    "tracks": "",
+                    "id": 940846,
+                    "resource_url": "https://api.discogs.com/artists/940846"
+                },
+                {
+                    "name": "Bruce Swedien",
+                    "anv": "",
+                    "join": "",
+                    "role": "Effects",
+                    "tracks": "",
+                    "id": 101354,
+                    "resource_url": "https://api.discogs.com/artists/101354"
+                },
+                {
+                    "name": "Vincent Price (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Rap",
+                    "tracks": "",
+                    "id": 221508,
+                    "resource_url": "https://api.discogs.com/artists/221508"
+                }
+            ],
+            "duration": "5:14"
+        },
+        {
+            "position": "2-1",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Bad",
+            "extraartists": [
+                {
+                    "name": "Christopher Currell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 423237,
+                    "resource_url": "https://api.discogs.com/artists/423237"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                }
+            ],
+            "duration": "4:06"
+        },
+        {
+            "position": "2-2",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "The Way You Make Me Feel",
+            "extraartists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Finger Snaps",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:26"
+        },
+        {
+            "position": "2-3",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Man In The Mirror",
+            "extraartists": [
+                {
+                    "name": "Glen Ballard",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 136470,
+                    "resource_url": "https://api.discogs.com/artists/136470"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                },
+                {
+                    "name": "Glen Ballard",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 136470,
+                    "resource_url": "https://api.discogs.com/artists/136470"
+                },
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                },
+                {
+                    "name": "Andra\u00e9 Crouch",
+                    "anv": "Andrae Crouch",
+                    "join": "",
+                    "role": "Arranged By [Vocals]",
+                    "tracks": "",
+                    "id": 271416,
+                    "resource_url": "https://api.discogs.com/artists/271416"
+                },
+                {
+                    "name": "Siedah Garrett",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 43745,
+                    "resource_url": "https://api.discogs.com/artists/43745"
+                },
+                {
+                    "name": "The Andra\u00e9 Crouch Choir",
+                    "anv": "The Andrae Crouch Choir",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 238706,
+                    "resource_url": "https://api.discogs.com/artists/238706"
+                },
+                {
+                    "name": "The Winans",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 105452,
+                    "resource_url": "https://api.discogs.com/artists/105452"
+                },
+                {
+                    "name": "Glen Ballard",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 136470,
+                    "resource_url": "https://api.discogs.com/artists/136470"
+                },
+                {
+                    "name": "Siedah Garrett",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 43745,
+                    "resource_url": "https://api.discogs.com/artists/43745"
+                }
+            ],
+            "duration": "5:19"
+        },
+        {
+            "position": "2-4",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Dirty Diana",
+            "extraartists": [
+                {
+                    "name": "Jerry Hey",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 255142,
+                    "resource_url": "https://api.discogs.com/artists/255142"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Strings]",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Quincy Jones",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Synthesizer]",
+                    "tracks": "",
+                    "id": 17546,
+                    "resource_url": "https://api.discogs.com/artists/17546"
+                },
+                {
+                    "name": "Steve Stevens",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar [Solo]",
+                    "tracks": "",
+                    "id": 165272,
+                    "resource_url": "https://api.discogs.com/artists/165272"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion [Clave' Clapstick]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:40"
+        },
+        {
+            "position": "2-5",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Another Part Of Me",
+            "extraartists": [
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals, Rhythm]",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Vocals, Rhythm]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "3:46"
+        },
+        {
+            "position": "2-6",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Smooth Criminal",
+            "extraartists": [
+                {
+                    "name": "John Barnes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 293896,
+                    "resource_url": "https://api.discogs.com/artists/293896"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Handclaps [Clap]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Frank Dileo",
+                    "anv": "",
+                    "join": "",
+                    "role": "Noises [Creaking And Heavy Breathing]",
+                    "tracks": "",
+                    "id": 940845,
+                    "resource_url": "https://api.discogs.com/artists/940845"
+                }
+            ],
+            "duration": "4:17"
+        },
+        {
+            "position": "2-7",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Leave Me Alone",
+            "extraartists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer [Vocal]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:39"
+        },
+        {
+            "position": "2-8",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Black Or White",
+            "extraartists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Executive-Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Slash (3)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar [Special Intro]",
+                    "tracks": "",
+                    "id": 170015,
+                    "resource_url": "https://api.discogs.com/artists/170015"
+                },
+                {
+                    "name": "Bill Bottrell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Lyrics By [Rap]",
+                    "tracks": "",
+                    "id": 27468,
+                    "resource_url": "https://api.discogs.com/artists/27468"
+                },
+                {
+                    "name": "Bill Bottrell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 27468,
+                    "resource_url": "https://api.discogs.com/artists/27468"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "L.T.B.",
+                    "anv": "",
+                    "join": "",
+                    "role": "Rap",
+                    "tracks": "",
+                    "id": 351891,
+                    "resource_url": "https://api.discogs.com/artists/351891"
+                }
+            ],
+            "duration": "3:21"
+        },
+        {
+            "position": "2-9",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Remember The Time",
+            "extraartists": [
+                {
+                    "name": "Teddy Riley",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm, Synthesizer]",
+                    "tracks": "",
+                    "id": 20897,
+                    "resource_url": "https://api.discogs.com/artists/20897"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Teddy Riley",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 20897,
+                    "resource_url": "https://api.discogs.com/artists/20897"
+                },
+                {
+                    "name": "Bernard Belle",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 199989,
+                    "resource_url": "https://api.discogs.com/artists/199989"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "Michael J. Jackson",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Teddy Riley",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 20897,
+                    "resource_url": "https://api.discogs.com/artists/20897"
+                }
+            ],
+            "duration": "3:59"
+        },
+        {
+            "position": "2-10",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "And",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Mystery Girl",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 517398,
+                    "resource_url": "https://api.discogs.com/artists/517398"
+                }
+            ],
+            "title": "In The Closet",
+            "extraartists": [
+                {
+                    "name": "Teddy Riley",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Rhythm, Synthesizer]",
+                    "tracks": "",
+                    "id": 20897,
+                    "resource_url": "https://api.discogs.com/artists/20897"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Teddy Riley",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 20897,
+                    "resource_url": "https://api.discogs.com/artists/20897"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "Michael J. Jackson",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Teddy Riley",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 20897,
+                    "resource_url": "https://api.discogs.com/artists/20897"
+                }
+            ],
+            "duration": "4:48"
+        },
+        {
+            "position": "2-11",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Who Is It",
+            "extraartists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Brad Buxer",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Keyboards]",
+                    "tracks": "",
+                    "id": 268523,
+                    "resource_url": "https://api.discogs.com/artists/268523"
+                },
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Keyboards]",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "George Del Barrio",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Strings]",
+                    "tracks": "",
+                    "id": 396088,
+                    "resource_url": "https://api.discogs.com/artists/396088"
+                },
+                {
+                    "name": "Bill Bottrell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 27468,
+                    "resource_url": "https://api.discogs.com/artists/27468"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Linda Harmon",
+                    "anv": "",
+                    "join": "",
+                    "role": "Soprano Vocals",
+                    "tracks": "",
+                    "id": 351890,
+                    "resource_url": "https://api.discogs.com/artists/351890"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Soprano Vocals",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "3:59"
+        },
+        {
+            "position": "2-12",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Heal The World",
+            "extraartists": [
+                {
+                    "name": "John Bahler",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Choir]",
+                    "tracks": "",
+                    "id": 390069,
+                    "resource_url": "https://api.discogs.com/artists/390069"
+                },
+                {
+                    "name": "Marty Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Prelude], Conductor [Prelude]",
+                    "tracks": "",
+                    "id": 193583,
+                    "resource_url": "https://api.discogs.com/artists/193583"
+                },
+                {
+                    "name": "Marty Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Composed By [Prelude]",
+                    "tracks": "",
+                    "id": 193583,
+                    "resource_url": "https://api.discogs.com/artists/193583"
+                },
+                {
+                    "name": "Jeff Porcaro",
+                    "anv": "",
+                    "join": "",
+                    "role": "Drums",
+                    "tracks": "",
+                    "id": 332625,
+                    "resource_url": "https://api.discogs.com/artists/332625"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Executive-Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "The John Bahler Singers",
+                    "anv": "",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 351885,
+                    "resource_url": "https://api.discogs.com/artists/351885"
+                },
+                {
+                    "name": "Brad Buxer",
+                    "anv": "",
+                    "join": "",
+                    "role": "Keyboards",
+                    "tracks": "",
+                    "id": 268523,
+                    "resource_url": "https://api.discogs.com/artists/268523"
+                },
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Keyboards",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "Bryan Loren",
+                    "anv": "",
+                    "join": "",
+                    "role": "Percussion",
+                    "tracks": "",
+                    "id": 40068,
+                    "resource_url": "https://api.discogs.com/artists/40068"
+                },
+                {
+                    "name": "Bruce Swedien",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 101354,
+                    "resource_url": "https://api.discogs.com/artists/101354"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "Michael Boddicker",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 279662,
+                    "resource_url": "https://api.discogs.com/artists/279662"
+                },
+                {
+                    "name": "Steve Porcaro",
+                    "anv": "",
+                    "join": "",
+                    "role": "Synthesizer",
+                    "tracks": "",
+                    "id": 299163,
+                    "resource_url": "https://api.discogs.com/artists/299163"
+                },
+                {
+                    "name": "Ashley Farell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals",
+                    "tracks": "",
+                    "id": 940844,
+                    "resource_url": "https://api.discogs.com/artists/940844"
+                },
+                {
+                    "name": "Christa Larson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Vocals",
+                    "tracks": "",
+                    "id": 351889,
+                    "resource_url": "https://api.discogs.com/artists/351889"
+                }
+            ],
+            "duration": "6:25"
+        },
+        {
+            "position": "2-13",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Will You Be There",
+            "extraartists": [
+                {
+                    "name": "Andra\u00e9 Crouch",
+                    "anv": "Andrae Crouch",
+                    "join": "",
+                    "role": "Arranged By [Choir]",
+                    "tracks": "",
+                    "id": 271416,
+                    "resource_url": "https://api.discogs.com/artists/271416"
+                },
+                {
+                    "name": "Sandra Crouch",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Choir]",
+                    "tracks": "",
+                    "id": 271393,
+                    "resource_url": "https://api.discogs.com/artists/271393"
+                },
+                {
+                    "name": "Johnny Mandel",
+                    "anv": "",
+                    "join": "",
+                    "role": "Arranged By [Orchestra], Conductor",
+                    "tracks": "",
+                    "id": 263472,
+                    "resource_url": "https://api.discogs.com/artists/263472"
+                },
+                {
+                    "name": "Bruce Swedien",
+                    "anv": "",
+                    "join": "",
+                    "role": "Co-producer",
+                    "tracks": "",
+                    "id": 101354,
+                    "resource_url": "https://api.discogs.com/artists/101354"
+                },
+                {
+                    "name": "The Andra\u00e9 Crouch Singers",
+                    "anv": "The Andrae Crouch Singers",
+                    "join": "",
+                    "role": "Featuring",
+                    "tracks": "",
+                    "id": 351888,
+                    "resource_url": "https://api.discogs.com/artists/351888"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "3:40"
+        },
+        {
+            "position": "2-14",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "You Are Not Alone",
+            "extraartists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "R. Kelly",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 14646,
+                    "resource_url": "https://api.discogs.com/artists/14646"
+                },
+                {
+                    "name": "R. Kelly",
+                    "anv": "Robert Kelly",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 14646,
+                    "resource_url": "https://api.discogs.com/artists/14646"
+                }
+            ],
+            "duration": "4:56"
+        },
+        {
+            "position": "2-15",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "Earth Song",
+            "extraartists": [
+                {
+                    "name": "The Andra\u00e9 Crouch Singers",
+                    "anv": "Andrae Crouch Singers",
+                    "join": "",
+                    "role": "Choir",
+                    "tracks": "",
+                    "id": 351888,
+                    "resource_url": "https://api.discogs.com/artists/351888"
+                },
+                {
+                    "name": "Bill Bottrell",
+                    "anv": "",
+                    "join": "",
+                    "role": "Co-producer",
+                    "tracks": "",
+                    "id": 27468,
+                    "resource_url": "https://api.discogs.com/artists/27468"
+                },
+                {
+                    "name": "David Paich",
+                    "anv": "",
+                    "join": "",
+                    "role": "Keyboards",
+                    "tracks": "",
+                    "id": 193582,
+                    "resource_url": "https://api.discogs.com/artists/193582"
+                },
+                {
+                    "name": "David Foster",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 79751,
+                    "resource_url": "https://api.discogs.com/artists/79751"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Steve Porcaro",
+                    "anv": "",
+                    "join": "",
+                    "role": "Programmed By [Synthesizer]",
+                    "tracks": "",
+                    "id": 299163,
+                    "resource_url": "https://api.discogs.com/artists/299163"
+                }
+            ],
+            "duration": "5:02"
+        },
+        {
+            "position": "2-16",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "They Don't Care About Us",
+            "extraartists": [
+                {
+                    "name": "The Andra\u00e9 Crouch Choir",
+                    "anv": "Andrae Crouch Choir",
+                    "join": "",
+                    "role": "Backing Vocals",
+                    "tracks": "",
+                    "id": 238706,
+                    "resource_url": "https://api.discogs.com/artists/238706"
+                },
+                {
+                    "name": "Slash (3)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar [Background]",
+                    "tracks": "",
+                    "id": 170015,
+                    "resource_url": "https://api.discogs.com/artists/170015"
+                },
+                {
+                    "name": "Trevor Rabin",
+                    "anv": "",
+                    "join": "",
+                    "role": "Guitar [Background]",
+                    "tracks": "",
+                    "id": 160605,
+                    "resource_url": "https://api.discogs.com/artists/160605"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "duration": "4:44"
+        },
+        {
+            "position": "2-17",
+            "type_": "track",
+            "artists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                }
+            ],
+            "title": "You Rock My World",
+            "extraartists": [
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Executive-Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Instruments [All]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Rodney Jerkins",
+                    "anv": "",
+                    "join": "",
+                    "role": "Instruments [All]",
+                    "tracks": "",
+                    "id": 51079,
+                    "resource_url": "https://api.discogs.com/artists/51079"
+                },
+                {
+                    "name": "Chris Tucker (2)",
+                    "anv": "",
+                    "join": "",
+                    "role": "Performer [Intro]",
+                    "tracks": "",
+                    "id": 396372,
+                    "resource_url": "https://api.discogs.com/artists/396372"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Performer [Intro]",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Rodney Jerkins",
+                    "anv": "",
+                    "join": "",
+                    "role": "Producer",
+                    "tracks": "",
+                    "id": 51079,
+                    "resource_url": "https://api.discogs.com/artists/51079"
+                },
+                {
+                    "name": "Fred Jerkins III",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 191414,
+                    "resource_url": "https://api.discogs.com/artists/191414"
+                },
+                {
+                    "name": "LaShawn Daniels",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 250058,
+                    "resource_url": "https://api.discogs.com/artists/250058"
+                },
+                {
+                    "name": "Michael Jackson",
+                    "anv": "Michael J. Jackson",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 15885,
+                    "resource_url": "https://api.discogs.com/artists/15885"
+                },
+                {
+                    "name": "Nora Payne",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 481432,
+                    "resource_url": "https://api.discogs.com/artists/481432"
+                },
+                {
+                    "name": "Rodney Jerkins",
+                    "anv": "",
+                    "join": "",
+                    "role": "Written-By",
+                    "tracks": "",
+                    "id": 51079,
+                    "resource_url": "https://api.discogs.com/artists/51079"
+                }
+            ],
+            "duration": "5:08"
+        }
+    ],
+    "extraartists": [
+        {
+            "name": "The Corporation (2)",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By",
+            "tracks": "1-1 to 1-3, 1-6",
+            "id": 290531,
+            "resource_url": "https://api.discogs.com/artists/290531"
+        },
+        {
+            "name": "Jerry Hey",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Horns]",
+            "tracks": "1-7, 1-21 to 2-2, 2-5, 2-6",
+            "id": 255142,
+            "resource_url": "https://api.discogs.com/artists/255142"
+        },
+        {
+            "name": "Greg Phillinganes",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Rhythm]",
+            "tracks": "1-7 to 1-9",
+            "id": 108475,
+            "resource_url": "https://api.discogs.com/artists/108475"
+        },
+        {
+            "name": "Michael Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Rhythm]",
+            "tracks": "1-9, 1-15 to 1-17, 2-2, 2-7, 2-12, 2-13",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        },
+        {
+            "name": "Quincy Jones",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Rhythm]",
+            "tracks": "1-16, 1-17, 1-20",
+            "id": 17546,
+            "resource_url": "https://api.discogs.com/artists/17546"
+        },
+        {
+            "name": "Rod Temperton",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Rhythm]",
+            "tracks": "1-10, 1-11, 1-21",
+            "id": 148175,
+            "resource_url": "https://api.discogs.com/artists/148175"
+        },
+        {
+            "name": "Michael Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Arranged By [Vocals]",
+            "tracks": "1-15, 1-17, 2-1, 2-2, 2-4, 2-6, 2-7, 2-9, 2-10, 2-13",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        },
+        {
+            "name": "David Coleman (5)",
+            "anv": "",
+            "join": "",
+            "role": "Art Direction, Design",
+            "tracks": "",
+            "id": 1826893,
+            "resource_url": "https://api.discogs.com/artists/1826893"
+        },
+        {
+            "name": "Michael Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Backing Vocals",
+            "tracks": "1-9 to 1-12, 1-15 to 1-18, 1-21 to 2-17",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        },
+        {
+            "name": "Louis Johnson",
+            "anv": "",
+            "join": "",
+            "role": "Bass",
+            "tracks": "1-9, 1-10, 1-12",
+            "id": 321966,
+            "resource_url": "https://api.discogs.com/artists/321966"
+        },
+        {
+            "name": "Michael Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Co-producer",
+            "tracks": "1-17, 1-20, 2-1 to 2-7",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        },
+        {
+            "name": "Joy Gilbert Monfried",
+            "anv": "",
+            "join": "",
+            "role": "Compilation Producer [Project Director]",
+            "tracks": "",
+            "id": 1670484,
+            "resource_url": "https://api.discogs.com/artists/1670484"
+        },
+        {
+            "name": "Roger Menz",
+            "anv": "",
+            "join": "",
+            "role": "Compilation Producer [Project Director]",
+            "tracks": "",
+            "id": 2039145,
+            "resource_url": "https://api.discogs.com/artists/2039145"
+        },
+        {
+            "name": "Gerald Vinci",
+            "anv": "",
+            "join": "",
+            "role": "Concertmaster",
+            "tracks": "1-9, 1-11, 1-12",
+            "id": 332622,
+            "resource_url": "https://api.discogs.com/artists/332622"
+        },
+        {
+            "name": "John Robinson (2)",
+            "anv": "",
+            "join": "",
+            "role": "Drums",
+            "tracks": "1-9 to 1-11",
+            "id": 310251,
+            "resource_url": "https://api.discogs.com/artists/310251"
+        },
+        {
+            "name": "Greg Phillinganes",
+            "anv": "",
+            "join": "",
+            "role": "Electric Piano",
+            "tracks": "1-9, 1-10, 1-12",
+            "id": 108475,
+            "resource_url": "https://api.discogs.com/artists/108475"
+        },
+        {
+            "name": "David Williams (4)",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "1-9 to 1-11",
+            "id": 457690,
+            "resource_url": "https://api.discogs.com/artists/457690"
+        },
+        {
+            "name": "Marlo Henderson",
+            "anv": "",
+            "join": "",
+            "role": "Guitar",
+            "tracks": "1-9 to 1-11",
+            "id": 332624,
+            "resource_url": "https://api.discogs.com/artists/332624"
+        },
+        {
+            "name": "The Seawind Horns",
+            "anv": "",
+            "join": "",
+            "role": "Horns",
+            "tracks": "1-9 to 1-11",
+            "id": 656205,
+            "resource_url": "https://api.discogs.com/artists/656205"
+        },
+        {
+            "name": "Michael Jackson",
+            "anv": "",
+            "join": "",
+            "role": "Lead Vocals",
+            "tracks": "1-9 to 1-12, 1-15 to 1-18, 1-21 to 2-17",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        },
+        {
+            "name": "Nelson George",
+            "anv": "",
+            "join": "",
+            "role": "Liner Notes",
+            "tracks": "",
+            "id": 1258691,
+            "resource_url": "https://api.discogs.com/artists/1258691"
+        },
+        {
+            "name": "Joseph M. Palmaccio",
+            "anv": "",
+            "join": "",
+            "role": "Mastered By",
+            "tracks": "",
+            "id": 432086,
+            "resource_url": "https://api.discogs.com/artists/432086"
+        },
+        {
+            "name": "Sam Emerson",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Back]",
+            "tracks": "",
+            "id": 2082959,
+            "resource_url": "https://api.discogs.com/artists/2082959"
+        },
+        {
+            "name": "Douglas Kirkland",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Cover]",
+            "tracks": "",
+            "id": 2021478,
+            "resource_url": "https://api.discogs.com/artists/2021478"
+        },
+        {
+            "name": "Dick Zimmerman (3)",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Interior]",
+            "tracks": "",
+            "id": 2158806,
+            "resource_url": "https://api.discogs.com/artists/2158806"
+        },
+        {
+            "name": "Kenny Rogers (2)",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Interior]",
+            "tracks": "",
+            "id": 742662,
+            "resource_url": "https://api.discogs.com/artists/742662"
+        },
+        {
+            "name": "Sam Emerson",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Interior]",
+            "tracks": "",
+            "id": 2082959,
+            "resource_url": "https://api.discogs.com/artists/2082959"
+        },
+        {
+            "name": "Steven Vaughn",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Interior]",
+            "tracks": "",
+            "id": 2261503,
+            "resource_url": "https://api.discogs.com/artists/2261503"
+        },
+        {
+            "name": "Todd Grey",
+            "anv": "",
+            "join": "",
+            "role": "Photography By [Interior]",
+            "tracks": "",
+            "id": 2172766,
+            "resource_url": "https://api.discogs.com/artists/2172766"
+        },
+        {
+            "name": "Quincy Jones",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "1-9 to 1-12, 1-14 to 2-7",
+            "id": 17546,
+            "resource_url": "https://api.discogs.com/artists/17546"
+        },
+        {
+            "name": "The Corporation (2)",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "1-1 to 1-3, 1-6",
+            "id": 290531,
+            "resource_url": "https://api.discogs.com/artists/290531"
+        },
+        {
+            "name": "The Jacksons",
+            "anv": "",
+            "join": "",
+            "role": "Producer",
+            "tracks": "1-7, 1-8, 1-13",
+            "id": 169154,
+            "resource_url": "https://api.discogs.com/artists/169154"
+        },
+        {
+            "name": "Berry Gordy",
+            "anv": "Berry Gordy Jr.",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "1-1 to 1-3",
+            "id": 229467,
+            "resource_url": "https://api.discogs.com/artists/229467"
+        },
+        {
+            "name": "Deke Richards",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "1-1 to 1-3",
+            "id": 285482,
+            "resource_url": "https://api.discogs.com/artists/285482"
+        },
+        {
+            "name": "Fonce Mizell",
+            "anv": "Alphonso Mizell",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "1-1 to 1-3",
+            "id": 68870,
+            "resource_url": "https://api.discogs.com/artists/68870"
+        },
+        {
+            "name": "Freddie Perren",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "1-1 to 1-3",
+            "id": 214233,
+            "resource_url": "https://api.discogs.com/artists/214233"
+        },
+        {
+            "name": "Michael Jackson",
+            "anv": "Michael J. Jackson",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "1-9, 1-14 to 1-17, 1-20, 2-1, 2-2, 2-4 to 2-8, 2-11 to 2-13, 2-15,2-16",
+            "id": 15885,
+            "resource_url": "https://api.discogs.com/artists/15885"
+        },
+        {
+            "name": "Rod Temperton",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "1-10, 1-11, 1-21",
+            "id": 148175,
+            "resource_url": "https://api.discogs.com/artists/148175"
+        }
+    ],
+    "images": [
+        {
+            "type": "primary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 592
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 594
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 599
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 588,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 589,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 583,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 584,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 584,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 592,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 594,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 599,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 598,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 467
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 455
+        },
+        {
+            "type": "secondary",
+            "uri": "",
+            "resource_url": "",
+            "uri150": "",
+            "width": 600,
+            "height": 522
+        }
+    ],
+    "thumb": "",
+    "estimated_weight": 170,
+    "blocked_from_sale": false
+}

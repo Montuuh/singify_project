@@ -1,0 +1,2872 @@
+{
+    "linkRealPage": "https://www.discogs.com/es/search/?q=michael+jackson&type=all",
+    "pagination": {
+        "page": 1,
+        "pages": 200,
+        "per_page": 50,
+        "items": 73929,
+        "urls": {
+            "last": "https://api.discogs.com/database/search?q=michael+jackson&token=ERuWbpKyovABFhbgpHMRipXUjCsfBaGAJbDGcXmb&page=200&per_page=50",
+            "next": "https://api.discogs.com/database/search?q=michael+jackson&token=ERuWbpKyovABFhbgpHMRipXUjCsfBaGAJbDGcXmb&page=2&per_page=50"
+        }
+    },
+    "results": [
+        {
+            "id": 15885,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/15885-Michael-Jackson",
+            "title": "Michael Jackson",
+            "thumb": "https://img.discogs.com/qfto0jIhw10EOoxlrjafhkNRMn4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-15885-1586013096-1429.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/6lJcw-8uxGj7qcg8xzLUWvWLOKE=/578x789/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-15885-1586013096-1429.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/artists/15885"
+        },
+        {
+            "country": "Europe",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "The Essential",
+                "Motown Records",
+                "Sony BMG Music Entertainment",
+                "MJJ Productions Inc.",
+                "MJJ Productions Inc.",
+                "UMG Recordings, Inc.",
+                "Universal Music Enterprises",
+                "Quincy Jones Productions",
+                "MJJ Productions Inc.",
+                "Record One, Los Angeles",
+                "Sony Music Studios, New York City",
+                "Sony Music Studios, New York City",
+                "Marvin's Room",
+                "The Hit Factory Criteria",
+                "Sony Music"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Rock",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Pop Rock",
+                "Synth-pop",
+                "Disco"
+            ],
+            "id": 35097,
+            "barcode": [
+                "5 099752 042227",
+                "5099752042227",
+                "LC 00199",
+                "BIEM/GEMA",
+                "Sony Music S5204222001-0102 31",
+                "IFPI L551",
+                "IFPI 947C",
+                "Sony Music S5204222001-0102 71 A03",
+                "IFPI L551",
+                "IFPI 948R",
+                "Sony Music 55204222001-0102 31 A16",
+                "IFPI L551",
+                "IFPI 946S",
+                "S5204222001-0102 64 A6",
+                "IFPI L551",
+                "IFPI 944N",
+                "Sony Music S5204222001-0102 71 B11",
+                "IFPI L551",
+                "IFPI 94Y4",
+                "Sony Music S5204222001-0102 71 A20",
+                "IFPI L551",
+                "IFPI 94K7",
+                "Sony Music S5204222001-0102 21 A2",
+                "IFPI L551",
+                "IFPI 947C",
+                "Sony Music S5204222001-0102 71 B19",
+                "IFPI L551",
+                "IFPI 942S",
+                "Sony Music S5204222001-0102 21 A6",
+                "IFPI L551",
+                "IFPI 941T",
+                "Sony Music S5204222001-0102 31 A12",
+                "IFPI L551",
+                "IFPI 946R",
+                "Sony Music S5204222001-0202 24",
+                "IFPI L551",
+                "IFPI 946S",
+                "Sony Music S5204222001-0202 51 A2",
+                "IFPI L551",
+                "IFPI 948P",
+                "Sony Music S5204222001-0202 24 A21",
+                "IFPI L554",
+                "IFPI 944S",
+                "S5204222001-0202 41 A7",
+                "IFPI L551",
+                "IFPI 941T",
+                "Sony Music S5204222001-0202 81 A11",
+                "IFPI L551",
+                "IFPI 941Q",
+                "Sony Music S5204222001-0202 81 A15",
+                "IFPI L551",
+                "IFPI 94Z2",
+                "Sony Music S5204222001-0202 11 B2",
+                "IFPI L551",
+                "IFPI 942Q",
+                "Sony Music S5204222001-0202 81 A07",
+                "IFPI L551",
+                "IFPI 941S",
+                "Sony Music S5204222001-0202 11 A1",
+                "IFPI L551",
+                "IFPI 944A",
+                "Sony Music S5204222001-0102 24 A5",
+                "IFPI L554",
+                "IFPI 943S"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/master/35097-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "520422 2",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/MIWKb-qGtI0VbOg1TiAYI8UqzOY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-892043-1370936763-9313.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/GKl6y9CpgElErqwm5lmacjVfQRI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892043-1370936763-9313.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/35097",
+            "community": {
+                "want": 3285,
+                "have": 5409
+            }
+        },
+        {
+            "country": "US",
+            "year": "1975",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Motown"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Soul"
+            ],
+            "id": 101877,
+            "barcode": [
+                "M6-851S1-HS-2519-1-S-03B #12",
+                "M6-851S1-HS-2520-2-S-03B #12"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/master/101877-Michael-Jackson-The-Best-Of-Michael-Jackson",
+            "catno": "M6-851S1",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/nXKNErqZODcuQshG2AGQ-I9wLSI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-573221-1289688299.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/bL1sfOJ5hQa9XWEzLn06dVG2L7I=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573221-1289688299.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/101877",
+            "community": {
+                "want": 2393,
+                "have": 5869
+            }
+        },
+        {
+            "id": 135088,
+            "type": "label",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/label/135088-Not-On-Label-Michael-Jackson",
+            "title": "Not On Label (Michael Jackson)",
+            "thumb": "",
+            "cover_image": "https://img.discogs.com/dc2d0db8c3b6a3531963329eb417268f6bd0ffa0/images/spacer.gif",
+            "resource_url": "https://api.discogs.com/labels/135088"
+        },
+        {
+            "country": "US",
+            "year": "1980",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Motown",
+                "Motown Superstar Series",
+                "Motown Record Corporation",
+                "Motown/Hitsville U.S.A. Recording Studios",
+                "Motown/Hitsville U.S.A. Recording Studios",
+                "Glenwood Music",
+                "Gold Forever Music, Inc.",
+                "Jobete Music Co., Inc.",
+                "Recordo Music",
+                "Stone Agate Music Division",
+                "Stone Diamond Music Corp."
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Soul"
+            ],
+            "id": 101866,
+            "barcode": [
+                "ASCAP",
+                "BMI",
+                "M5-107V1A-15B AAL JM #13 AEE",
+                "M5-107V1B-15B AAL #13 JM AEE"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101866,
+            "master_url": "https://api.discogs.com/masters/101866",
+            "uri": "/Michael-Jackson-Michael-Jackson/master/101866",
+            "catno": "M5-107V1",
+            "title": "Michael Jackson - Michael Jackson",
+            "thumb": "https://img.discogs.com/X9b1TZqyJOJN3Yn77kbuTba5ios=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1106868-1600428648-3571.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/VVIAop8SAvKAPevowcULo04al6M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1106868-1600428648-3571.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/101866",
+            "community": {
+                "want": 305,
+                "have": 512
+            }
+        },
+        {
+            "country": "Netherlands",
+            "year": "1983",
+            "format": [
+                "VHS",
+                "PAL"
+            ],
+            "label": [
+                "Vestron Music Video",
+                "Vestron Video International"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Synth-pop",
+                "Disco"
+            ],
+            "id": 231124,
+            "barcode": [
+                "5012957100028"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 231124,
+            "master_url": "https://api.discogs.com/masters/231124",
+            "uri": "/Michael-Jackson-Making-Michael-Jacksons-Thriller/master/231124",
+            "catno": "MA 11000",
+            "title": "Michael Jackson - Making Michael Jackson's Thriller",
+            "thumb": "https://img.discogs.com/XuCojtv7ScpqKez9M7opGfrmhIk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1112294-1419600238-5332.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/lj0h0nE78Uvzcl3fC1-xWdR_dLA=/fit-in/600x1035/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1112294-1419600238-5332.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/231124",
+            "community": {
+                "want": 711,
+                "have": 486
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "The Essential",
+                "Motown Records",
+                "Sony BMG Music Entertainment",
+                "MJJ Productions Inc.",
+                "MJJ Productions Inc.",
+                "UMG Recordings, Inc.",
+                "Universal Music Enterprises",
+                "Quincy Jones Productions",
+                "MJJ Productions Inc.",
+                "Record One, Los Angeles",
+                "Sony Music Studios, New York City",
+                "Sony Music Studios, New York City",
+                "Marvin's Room",
+                "The Hit Factory Criteria",
+                "Sony Music"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic",
+                "Rock",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Pop Rock",
+                "Synth-pop",
+                "Disco"
+            ],
+            "id": 892043,
+            "barcode": [
+                "5 099752 042227",
+                "5099752042227",
+                "LC 00199",
+                "BIEM/GEMA",
+                "Sony Music S5204222001-0102 31",
+                "IFPI L551",
+                "IFPI 947C",
+                "Sony Music S5204222001-0102 71 A03",
+                "IFPI L551",
+                "IFPI 948R",
+                "Sony Music 55204222001-0102 31 A16",
+                "IFPI L551",
+                "IFPI 946S",
+                "S5204222001-0102 64 A6",
+                "IFPI L551",
+                "IFPI 944N",
+                "Sony Music S5204222001-0102 71 B11",
+                "IFPI L551",
+                "IFPI 94Y4",
+                "Sony Music S5204222001-0102 71 A20",
+                "IFPI L551",
+                "IFPI 94K7",
+                "Sony Music S5204222001-0102 21 A2",
+                "IFPI L551",
+                "IFPI 947C",
+                "Sony Music S5204222001-0102 71 B19",
+                "IFPI L551",
+                "IFPI 942S",
+                "Sony Music S5204222001-0102 21 A6",
+                "IFPI L551",
+                "IFPI 941T",
+                "Sony Music S5204222001-0102 31 A12",
+                "IFPI L551",
+                "IFPI 946R",
+                "Sony Music S5204222001-0202 24",
+                "IFPI L551",
+                "IFPI 946S",
+                "Sony Music S5204222001-0202 51 A2",
+                "IFPI L551",
+                "IFPI 948P",
+                "Sony Music S5204222001-0202 24 A21",
+                "IFPI L554",
+                "IFPI 944S",
+                "S5204222001-0202 41 A7",
+                "IFPI L551",
+                "IFPI 941T",
+                "Sony Music S5204222001-0202 81 A11",
+                "IFPI L551",
+                "IFPI 941Q",
+                "Sony Music S5204222001-0202 81 A15",
+                "IFPI L551",
+                "IFPI 94Z2",
+                "Sony Music S5204222001-0202 11 B2",
+                "IFPI L551",
+                "IFPI 942Q",
+                "Sony Music S5204222001-0202 81 A07",
+                "IFPI L551",
+                "IFPI 941S",
+                "Sony Music S5204222001-0202 11 A1",
+                "IFPI L551",
+                "IFPI 944A",
+                "Sony Music S5204222001-0102 24 A5",
+                "IFPI L554",
+                "IFPI 943S"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/892043-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "520422 2",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/MIWKb-qGtI0VbOg1TiAYI8UqzOY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-892043-1370936763-9313.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/GKl6y9CpgElErqwm5lmacjVfQRI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892043-1370936763-9313.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/892043",
+            "community": {
+                "want": 116,
+                "have": 1296
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "descriptions": [
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "year": "2001",
+            "format": [
+                "CD",
+                "Compilation",
+                "Remastered"
+            ],
+            "label": [
+                "Motown",
+                "The Universal Masters Collection",
+                "Motown Record Company, L.P.",
+                "Motown Record Company, L.P.",
+                "Universal M & L, Germany",
+                "Jobete Music Co., Inc.",
+                "Recordo Music Pub.",
+                "Mighty Three Music Ltd.",
+                "Island Music Ltd.",
+                "Mainartery"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Soul"
+            ],
+            "id": 142525,
+            "barcode": [
+                "0 44001 34912 6",
+                "BIEM/MCPS",
+                "LC 00881",
+                "MADE IN GERMANY BY UNIVERSAL M & L D",
+                "00440 013 491-2 01 / 51117177",
+                "IFPI L001",
+                "IFPI 0123",
+                "IFPI 0117"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 142525,
+            "master_url": "https://api.discogs.com/masters/142525",
+            "uri": "/Michael-Jackson-Classic-Michael-Jackson/master/142525",
+            "catno": "013 491-2",
+            "title": "Michael Jackson - Classic Michael Jackson",
+            "thumb": "https://img.discogs.com/_2bpa2Jl3fst2V-DTh3sFK1Z71U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-499795-1132008498.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/WEH_9y3t00rkZ75VH8TzWeIhl_I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-499795-1132008498.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/142525",
+            "community": {
+                "want": 258,
+                "have": 472
+            }
+        },
+        {
+            "country": "US",
+            "year": "1980",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Motown",
+                "Motown Superstar Series",
+                "Motown Record Corporation",
+                "Motown/Hitsville U.S.A. Recording Studios",
+                "Motown/Hitsville U.S.A. Recording Studios",
+                "Glenwood Music",
+                "Gold Forever Music, Inc.",
+                "Jobete Music Co., Inc.",
+                "Recordo Music",
+                "Stone Agate Music Division",
+                "Stone Diamond Music Corp."
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Soul"
+            ],
+            "id": 1106868,
+            "barcode": [
+                "ASCAP",
+                "BMI",
+                "M5-107V1A-15B AAL JM #13 AEE",
+                "M5-107V1B-15B AAL #13 JM AEE"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101866,
+            "master_url": "https://api.discogs.com/masters/101866",
+            "uri": "/Michael-Jackson-Michael-Jackson/release/1106868",
+            "catno": "M5-107V1",
+            "title": "Michael Jackson - Michael Jackson",
+            "thumb": "https://img.discogs.com/X9b1TZqyJOJN3Yn77kbuTba5ios=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1106868-1600428648-3571.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/VVIAop8SAvKAPevowcULo04al6M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1106868-1600428648-3571.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1106868",
+            "community": {
+                "want": 104,
+                "have": 353
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK & Europe",
+            "year": "1987",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Motown",
+                "Bertelsmann Music Group",
+                "BMG Records",
+                "BMG Ariola",
+                "Motown Record Corporation",
+                "Sonopress",
+                "Motown/Hitsville U.S.A. Recording Studios"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [
+                "Vocal"
+            ],
+            "id": 35086,
+            "barcode": [
+                "0 035627 262210",
+                "0035627262210",
+                "LC 0881",
+                "[embossed bas clef] \ud834\udd22",
+                "BIEM GEMA",
+                "SE",
+                "RC 250",
+                "HH"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35086,
+            "master_url": "https://api.discogs.com/masters/35086",
+            "uri": "/Michael-Jackson-The-Original-Soul-Of-Michael-Jackson/master/35086",
+            "catno": "ZL72622",
+            "title": "Michael Jackson - The Original Soul Of Michael Jackson",
+            "thumb": "https://img.discogs.com/T4lcHCqAR0PvIgUIqQBfwOQXlLI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1488890-1246015871.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/dioYKyEJDhKsxZIT7lPcZPD3jQg=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488890-1246015871.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/35086",
+            "community": {
+                "want": 603,
+                "have": 623
+            }
+        },
+        {
+            "country": "UK",
+            "year": "2005",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "The Essential",
+                "Legacy",
+                "MJJ Productions",
+                "Jobete Music Co., Inc.",
+                "Quincy Jones Productions",
+                "MJJ Productions Inc."
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Disco"
+            ],
+            "id": 706187,
+            "barcode": [
+                "5 099752 042227"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/706187-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "EPC 520422 1",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/B2sO4ODzE7TTyHOAtm0Yz76HM-A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-706187-1378244487-3095.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/BjVx4eOgHqSUSiW7mbeRlDwEpR4=/fit-in/373x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-706187-1378244487-3095.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/706187",
+            "community": {
+                "want": 426,
+                "have": 288
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "2",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "The Essential",
+                "Epic",
+                "Epic",
+                "Motown Records",
+                "Sony BMG Music Entertainment",
+                "MJJ Productions Inc.",
+                "MJJ Productions Inc.",
+                "DADC",
+                "DADC",
+                "Sony Music Studios, New York City"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Funk",
+                "Disco"
+            ],
+            "id": 10568369,
+            "barcode": [
+                "827969428726",
+                "8 2796-94287-2 6",
+                "CTDP-120335 13 A04",
+                "IFPI L329",
+                "IFPI 50F8",
+                "CTDP-120336 5 D06",
+                "IFPI L327",
+                "IFPI 507E"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/10568369-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "E2K 94287",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/RAvPsZwHYzUfRd1r6l9WG01x870=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10568369-1541360336-2141.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/YXm9CAdR-9mG7fOkj51x6xKsPNY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10568369-1541360336-2141.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/10568369",
+            "community": {
+                "want": 51,
+                "have": 551
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "descriptions": [
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "2010",
+            "format": [
+                "CD",
+                "Album"
+            ],
+            "label": [
+                "Epic",
+                "Universal Mastering Studios",
+                "Arvato Digital Services Bertelsmann, USA"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "RnB/Swing",
+                "Pop Rock",
+                "Ballad"
+            ],
+            "id": 293695,
+            "barcode": [
+                "8 8697-66773-2 9",
+                "88697667732RE1 arvato digital services +A02+ JI61002",
+                "IFPI LY93",
+                "IFPI 10E5",
+                "88697667732RE1 arvato digital services +A04+ JI61002",
+                "IFPI 10F1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 293695,
+            "master_url": "https://api.discogs.com/masters/293695",
+            "uri": "/master/293695-Michael-Jackson-Michael",
+            "catno": "88697 66773 2",
+            "title": "Michael Jackson - Michael",
+            "thumb": "https://img.discogs.com/6KmXt4-V50LYM7fuQdJgc3nw1h8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13723885-1559781302-4815.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/m2cbkxRW6__10wkwZFD6c1sY7Yc=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13723885-1559781302-4815.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/293695",
+            "community": {
+                "want": 2219,
+                "have": 3993
+            }
+        },
+        {
+            "country": "Unknown",
+            "genre": [
+                "Pop"
+            ],
+            "format": [
+                "Cassette",
+                "Album",
+                "Unofficial Release"
+            ],
+            "style": [],
+            "id": 11958097,
+            "label": [
+                "Melodies"
+            ],
+            "type": "release",
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 8883,
+            "master_url": "https://api.discogs.com/masters/8883",
+            "uri": "/release/11958097-Michael-Jackson-Michael-Jackson",
+            "catno": "M-10181",
+            "title": "Michael Jackson - Michael Jackson",
+            "thumb": "https://img.discogs.com/B7bkMFp67nz0AgyuVafFsnxaWQY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11958097-1525468721-2114.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/9f6WmcvMNBqKOh-IZ2LFYRyFbjk=/fit-in/600x906/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11958097-1525468721-2114.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/11958097",
+            "community": {
+                "want": 242,
+                "have": 35
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Cassette",
+                    "qty": "1",
+                    "descriptions": [
+                        "Album",
+                        "Unofficial Release"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "1981",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "Motown",
+                "Motown Recording Studios",
+                "Motown Recording Studios",
+                "Motown Record Corporation",
+                "Motown Record Corporation",
+                "Holland-Dozier-Holland Productions, Inc.",
+                "MCA Distributing, Inc.",
+                "Jobete Music Co., Inc.",
+                "Glenwood Music",
+                "Stone Agate Music Division",
+                "Recordo Music",
+                "Gold Forever Music, Inc.",
+                "Stone Diamond Music Corp.",
+                "Belwin-Mills Publishing Co."
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Rhythm & Blues"
+            ],
+            "id": 2040890,
+            "barcode": [
+                "ASCAP",
+                "BMI",
+                "HS-2519-1",
+                "HS-2520-2",
+                "M5-194VI-A-08A B6E jm",
+                "M5-194VI-B-08A BGE jm"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/Michael-Jackson-The-Best-Of-Michael-Jackson/release/2040890",
+            "catno": "M5-194V1",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/Sfnx4hneydz6j6LTmsEjGE9bUF0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2040890-1610571359-3320.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/hJ8dwDQVHZ3lqQDVNnkdPbBu2b8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040890-1610571359-3320.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/2040890",
+            "community": {
+                "want": 74,
+                "have": 680
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "format": [
+                "CD",
+                "Compilation",
+                "Reissue"
+            ],
+            "style": [],
+            "id": 384326,
+            "label": [
+                "Motown",
+                "Motown Master Series",
+                "Anthology Series",
+                "Motown Record Company, L.P.",
+                "Motown Record Company, L.P.",
+                "Digiprep",
+                "UML"
+            ],
+            "type": "master",
+            "barcode": [
+                "7 31453-0480-2 7",
+                "314 530 4812 39$ A",
+                "314 530 4812 39$ J",
+                "MADE IN USA BY UML",
+                "IFPI L009",
+                "IFPI L009",
+                "IFPI 0314",
+                "IFPI 0313",
+                "314 530 482 2RE 1 01@ AM",
+                "314 530 4822RE1 41% A",
+                "MADE IN USA BY UML",
+                "IFPI L006",
+                "IFPI L007",
+                "IFPI 0337",
+                "IFPI 0323"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 384326,
+            "master_url": "https://api.discogs.com/masters/384326",
+            "uri": "/master/384326-Michael-Jackson-The-Best-Of-Michael-Jackson",
+            "catno": "31453-0480-2",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/FX0jtRnUO7dljYvOwoHh_gb_1Zk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4540483-1367803356-7767.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/VCSKmYf2TqikPOEcXfFi2e757BY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4540483-1367803356-7767.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/384326",
+            "community": {
+                "want": 112,
+                "have": 404
+            }
+        },
+        {
+            "country": "Japan",
+            "year": "2010",
+            "format": [
+                "CD",
+                "Compilation",
+                "Limited Edition"
+            ],
+            "label": [
+                "Motown",
+                "Universal Music"
+            ],
+            "type": "master",
+            "genre": [
+                "Reggae",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Dub",
+                "Rhythm & Blues",
+                "Soul",
+                "Lovers Rock"
+            ],
+            "id": 536757,
+            "barcode": [
+                "4988005613295"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 536757,
+            "master_url": "https://api.discogs.com/masters/536757",
+            "uri": "/Hiroshi-Fujiwara-KUDO-Presents-Michael-Jackson-Jackson-5-Michael-Jackson-Jackson-5-Remixes/master/536757",
+            "catno": "UICZ-9036/7",
+            "title": "Hiroshi Fujiwara & K.U.D.O.* Presents Michael Jackson / Jackson 5* - Michael Jackson / Jackson 5 Remixes",
+            "thumb": "https://img.discogs.com/87ojSIncw2aqj_IG6AIw4aZv2DU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2325485-1429648205-3285.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/S26iudIrQUngKt_R2dDXz7p8LX4=/fit-in/596x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2325485-1429648205-3285.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/536757",
+            "community": {
+                "want": 326,
+                "have": 169
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2009",
+            "format": [
+                "CD",
+                "Compilation",
+                "Repress"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Sony Music",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Sony Music",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Sony Music",
+                "The Essential",
+                "MJJ Productions Inc.",
+                "Motown Records",
+                "Sony Music Entertainment",
+                "MJJ Productions Inc.",
+                "UMG Recordings, Inc.",
+                "Universal Music Enterprises",
+                "Quincy Jones Productions",
+                "MJJ Productions Inc.",
+                "Sony Music Studios, New York City",
+                "Record One, Los Angeles",
+                "Sony Music Studios, New York City",
+                "Marvin's Room",
+                "The Hit Factory Criteria",
+                "Sony DADC, Southwater",
+                "Sony DADC, Southwater"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Synth-pop",
+                "Disco",
+                "Funk"
+            ],
+            "id": 9118664,
+            "barcode": [
+                "5  099752 042227",
+                "BIEM/GEMA",
+                "LC 00199",
+                "S5204222001-0102 10 Sony DADC",
+                "IFPI LY34",
+                "IFPI AEW39",
+                "S5204222001-0202 09 Sony DADC",
+                "IFPI LY33",
+                "IFPI AEW27"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/9118664-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "520422 2",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/Ddg1lCPfptqbofkzxSMJG7dcGKo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9118664-1475153973-3174.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Um8NYIQqLXO1_zlm1w60GmCAifY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9118664-1475153973-3174.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/9118664",
+            "community": {
+                "want": 37,
+                "have": 434
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "descriptions": [
+                        "Compilation",
+                        "Repress"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "1975",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Motown"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Soul"
+            ],
+            "id": 573221,
+            "barcode": [
+                "M6-851S1-HS-2519-1-S-03B #12",
+                "M6-851S1-HS-2520-2-S-03B #12"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/release/573221-Michael-Jackson-The-Best-Of-Michael-Jackson",
+            "catno": "M6-851S1",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/nXKNErqZODcuQshG2AGQ-I9wLSI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-573221-1289688299.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/bL1sfOJ5hQa9XWEzLn06dVG2L7I=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573221-1289688299.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/573221",
+            "community": {
+                "want": 129,
+                "have": 548
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "2017",
+            "format": [
+                "CDr",
+                "Compilation",
+                "Mixed"
+            ],
+            "label": [
+                "DMC",
+                "DMC",
+                "DMC Monsterjam",
+                "Phonographic Performance Ltd"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Hip Hop",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Disco",
+                "Funk",
+                "Dance-pop",
+                "RnB/Swing"
+            ],
+            "id": 1347059,
+            "barcode": [
+                "T80-UG-5 (12089103)",
+                "MCPS"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1347059,
+            "master_url": "https://api.discogs.com/masters/1347059",
+            "uri": "/Michael-Jackson-Michael-Jackson-Monsterjam/master/1347059",
+            "catno": "DMCMJMJ1",
+            "title": "Michael Jackson - Michael Jackson Monsterjam",
+            "thumb": "https://img.discogs.com/GuzBIozH3Ja6a8TX85SGNo_URQ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9696969-1484937906-4072.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/cqDsXv5xJmrstxgXQC3bTkl6biU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9696969-1484937906-4072.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1347059",
+            "community": {
+                "want": 236,
+                "have": 111
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2010",
+            "format": [
+                "CD",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Sony Music",
+                "The Essential",
+                "Sony Music Entertainment",
+                "Sony Music Entertainment",
+                "Motown Records",
+                "MJJ Productions Inc.",
+                "Sony Music Entertainment",
+                "UMG Recordings, Inc.",
+                "Universal Music Enterprises",
+                "Quincy Jones Productions",
+                "MJJ Productions Inc.",
+                "Record One, Los Angeles",
+                "Sony Music Studios, New York City",
+                "Sony Music Studios, New York City",
+                "Marvin's Room",
+                "The Hit Factory Criteria",
+                "Arvato Digital Services",
+                "Arvato Digital Services"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic",
+                "Rock",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Pop Rock",
+                "Synth-pop",
+                "Disco"
+            ],
+            "id": 4085145,
+            "barcode": [
+                "8 86978 32712 3",
+                "886978327123",
+                "LC06667",
+                "BIEM/GEMA",
+                "[logo] SONY MUSIC",
+                "51587261/5204222-1 22",
+                "IFPI LP 73",
+                "IFPI 0775",
+                "51587258/5204222-2 22",
+                "IFPI LB47",
+                "IFPI 0780"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/4085145-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "88697832712",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/PJoH1yXrPmsfxX0pLmtDhBYfMHk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4085145-1355318066-2116.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Nq6op671J2Go5pwR63LjpaQXNU4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4085145-1355318066-2116.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/4085145",
+            "community": {
+                "want": 47,
+                "have": 475
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "text": "Super Jewel Box",
+                    "descriptions": [
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Netherlands",
+            "year": "1992",
+            "format": [
+                "Vinyl",
+                "12\"",
+                "45 RPM"
+            ],
+            "label": [
+                "Mid-Town Records",
+                "Mid-Town Records",
+                "Mid-Town Publishing Holland",
+                "IMC",
+                "USA Import Music",
+                "The Masters"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Hardcore",
+                "Techno"
+            ],
+            "id": 85967,
+            "barcode": [
+                "STEMRA",
+                "HCP873079 91116 A",
+                "MID 91116-B HCB 873079.",
+                "none"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 85967,
+            "master_url": "https://api.discogs.com/masters/85967",
+            "uri": "/master/85967-Obscure-FM-Michael-Jackson-Is-In-Heaven-Now",
+            "catno": "MID 91116",
+            "title": "Obscure FM - Michael Jackson Is In Heaven Now!",
+            "thumb": "https://img.discogs.com/yK09ULAtME88tHbqDOCIP9pUMBA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-114384-1448035009-2430.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/GoXjH_-co77mr6absszr-p1Ag7o=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-114384-1448035009-2430.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/85967",
+            "community": {
+                "want": 407,
+                "have": 871
+            }
+        },
+        {
+            "country": "UK",
+            "year": "2005",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "The Essential"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Disco"
+            ],
+            "id": 1946090,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/1946090-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "EPC 520422 1",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/2dX5Qv-2N5x24ReF70SIoJWfLjE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1946090-1378244414-6996.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/pfaVXfsR3el9Zbr5UBplm3uh9q0=/fit-in/373x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1946090-1378244414-6996.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1946090",
+            "community": {
+                "want": 318,
+                "have": 120
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "2",
+                    "text": "White",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "2008",
+            "format": [
+                "CD",
+                "Compilation",
+                "Limited Edition"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "The Essential",
+                "Limited Edition 3.0",
+                "Target"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Funk",
+                "Disco"
+            ],
+            "id": 2662232,
+            "barcode": [
+                "886973098523"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/2662232-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "88697 30985 2",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/1ogfNthBED7X3UjT_35-bJvmT5g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2662232-1577989512-2397.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/AJdfDrUtrW9iA05BFxdscIX43oc=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2662232-1577989512-2397.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/2662232",
+            "community": {
+                "want": 98,
+                "have": 335
+            },
+            "format_quantity": 3,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "3",
+                    "descriptions": [
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Australia",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Sony BMG Music Entertainment",
+                "The Essential Collection",
+                "MJJ Productions Inc.",
+                "Motown Records",
+                "Sony BMG Music Entertainment",
+                "MJJ Productions Inc.",
+                "Sony BMG Music Entertainment (Australia) Pty Limited",
+                "Sony Music Studios, New York City",
+                "Record One, Los Angeles",
+                "Marvin's Room",
+                "The Hit Factory Criteria",
+                "Sony Music Studios, New York City",
+                "SMEA",
+                "Sony DADC Australia"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Funk",
+                "Disco"
+            ],
+            "id": 2329895,
+            "barcode": [
+                "5 099752 042227",
+                "5099752042227",
+                "SMEA 0165149 5204222000 01",
+                "IFPI L681",
+                "IFPI 6517",
+                "Sony DADC Australia 0265149 5204222000 02",
+                "IFPI L681",
+                "IFPI 6544",
+                "0165149 5204222000 01 SMEA",
+                "IFPI L681",
+                "IFPI 6517",
+                "0265149 5204222000 02 Sony DADC Australia",
+                "IFPI L681",
+                "IFPI 6516",
+                "SMEA 0165149 5204222000 01",
+                "IFPI L681",
+                "IFPI 6519",
+                "Sony DADC Australia 0265149 5204222000 02",
+                "IFPI L681",
+                "IFPI 6545",
+                "SMEA 0165149 5204222000 01",
+                "IFPI L681",
+                "IFPI 6520",
+                "Sony DADC Australia 0265149 5204222000 02",
+                "IFPI L681",
+                "IFPI 6545"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/2329895-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "5204222000",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/VvJk4XEPeWpDEypSxi-ErIkGVc0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2329895-1350009211-1520.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/4_DqtCmtOdiyBK5_SyBJ_pw3KWM=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2329895-1350009211-1520.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/2329895",
+            "community": {
+                "want": 37,
+                "have": 338
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "descriptions": [
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1997",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "PolyGram TV",
+                "Motown",
+                "Polygram Record Operations Ltd.",
+                "Polygram Record Operations Ltd.",
+                "PMDC, UK",
+                "PolyGram TV",
+                "PolyGram TV",
+                "The Design Corporation"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [],
+            "id": 698297,
+            "barcode": [
+                "7 31453 08042 3",
+                "LC 7341",
+                "PY 900",
+                "BIEM/MCPS",
+                "5308042 02 6",
+                "5308042 10474481 01 &",
+                "MADE IN THE UK BY PMDC",
+                "IFPI L134",
+                "IFPI 0459",
+                "5308042 10474481 01 &",
+                "MADE IN THE UK BY PMDC",
+                "IFPI L134",
+                "IFPI 0453",
+                "5308042 10474481 01 &",
+                "MADE IN THE UK BY PMDC",
+                "IFPI L134",
+                "IFPI 0482",
+                "5308042 10474481 01 &",
+                "MADE IN THE UK BY PMDC",
+                "IFPI L134",
+                "IFPI 0490"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 698297,
+            "master_url": "https://api.discogs.com/masters/698297",
+            "uri": "/master/698297-Michael-Jackson-Jackson-5ive-The-Best-Of-Michael-Jackson-Jackson-5ive",
+            "catno": "530 804-2",
+            "title": "Michael Jackson, Jackson 5ive* - The Best Of Michael Jackson & Jackson 5ive",
+            "thumb": "https://img.discogs.com/UvF5WrsnlmSu7564tPT48b0lkl8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5791940-1402783406-1867.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/2MzSTSM7uwo-fzVVi0YbOn06nsI=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5791940-1402783406-1867.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/698297",
+            "community": {
+                "want": 57,
+                "have": 529
+            }
+        },
+        {
+            "country": "UK",
+            "year": "1980",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "Tamla Motown",
+                "Tamla Motown",
+                "Motown Record Corporation",
+                "EMI Records Ltd.",
+                "EMI Records Ltd.",
+                "EMI Records",
+                "Garrod & Lofthouse Ltd.",
+                "EMI Records Ltd.",
+                "Motown Recording Studios",
+                "Motown Recording Studios",
+                "Jobete Music (UK) Ltd.",
+                "United Artists Music Ltd.",
+                "Rondor Music (London) Ltd.",
+                "Carlin Music Corp.",
+                "Belwin Mills Music Ltd."
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Soul",
+                "Funk"
+            ],
+            "id": 800725,
+            "barcode": [
+                "STML 12005A",
+                "STML 12005B",
+                "STML 12005 A2  \u21be\u02d2  5 0",
+                "STML 12005 B2  \u21be  2 9"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/Michael-Jackson-The-Best-Of-Michael-Jackson/release/800725",
+            "catno": "STMR 9009",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/AOlBp2-FbRuT7ag1mwvpJ9KButU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-800725-1426453984-4730.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/UqW0ZURy8nxJxFpKH2hipdaeKYQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-800725-1426453984-4730.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/800725",
+            "community": {
+                "want": 58,
+                "have": 431
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "EMI Pressing",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "France & Benelux",
+            "year": "1981",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Motown",
+                "Vogue",
+                "Motown Record Corporation",
+                "Disques Vogue P.I.P.",
+                "Vogue P.I.P."
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Soul",
+                "Ballad"
+            ],
+            "id": 450571,
+            "barcode": [
+                "SACEM SDRM SACD SGDL",
+                "523031 A",
+                "523031 B",
+                "VG 407"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/Michael-Jackson-The-Best-Of-Michael-Jackson-The-Motown-Years/release/450571",
+            "catno": "523031",
+            "title": "Michael Jackson - The Best Of Michael Jackson - The Motown Years",
+            "thumb": "https://img.discogs.com/ri7MBdIMqwsDGqaBfYgrF5DKHm4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-450571-1396655483-3334.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/cP8iRmhvY0xenjuo5v4Uv-IA4jU=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450571-1396655483-3334.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/450571",
+            "community": {
+                "want": 62,
+                "have": 863
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Canada",
+            "year": "2005",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "MJJ Productions",
+                "Sony BMG",
+                "Legacy",
+                "Epic",
+                "The Essential",
+                "Sony BMG Music (Canada) Inc.",
+                "Motown Records",
+                "Sony BMG Music Entertainment",
+                "MJJ Productions Inc.",
+                "MJJ Productions Inc.",
+                "DADC",
+                "DADC",
+                "Sony Music Studios, New York City"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Funk",
+                "Disco"
+            ],
+            "id": 1106804,
+            "barcode": [
+                "8 2796-94287-2 6",
+                "CTDP-120335 9",
+                "CTDP-120336 3",
+                "IFPI L327",
+                "IFPI L328",
+                "6711",
+                "6709",
+                "EK 94288",
+                "EK 94289"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/1106804-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "E2K 94287",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/SWFJWPrtQKJAmzXrFEPK8HPJMww=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1106804-1513838819-2588.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/NBvlU89MRNv9HfzvgaA99WxKSrE=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1106804-1513838819-2588.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1106804",
+            "community": {
+                "want": 45,
+                "have": 255
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "descriptions": [
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Australia",
+            "year": "2017",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Limited Edition",
+                "Mixed",
+                "Promo"
+            ],
+            "label": [
+                "Not On Label (Michael Jackson)"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic",
+                "Hip Hop",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Disco",
+                "Funk",
+                "Dance-pop",
+                "RnB/Swing"
+            ],
+            "id": 11850018,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1347059,
+            "master_url": "https://api.discogs.com/masters/1347059",
+            "uri": "/Michael-Jackson-Michael-Jackson-Monsterjam/release/11850018",
+            "catno": "DMCMJMJ1VIN",
+            "title": "Michael Jackson - Michael Jackson Monsterjam",
+            "thumb": "https://img.discogs.com/vlwmJtyQ29s1jMdKmwrL9St22e4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11850018-1523451433-5211.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/w8_w9bMM0aii5XZUnBadDHdaon4=/fit-in/378x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11850018-1523451433-5211.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/11850018",
+            "community": {
+                "want": 120,
+                "have": 40
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "2",
+                    "text": "White Marbled",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Limited Edition",
+                        "Mixed",
+                        "Promo"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Europe",
+            "genre": [
+                "Electronic",
+                "Rock",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "format": [
+                "CD",
+                "Compilation",
+                "Reissue"
+            ],
+            "style": [
+                "Pop Rock",
+                "Synth-pop",
+                "Disco"
+            ],
+            "id": 9414910,
+            "label": [
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "Epic",
+                "Legacy",
+                "MJJ Productions",
+                "The Essential",
+                "Motown Records",
+                "Sony BMG Music Entertainment",
+                "MJJ Productions Inc.",
+                "MJJ Productions Inc.",
+                "UMG Recordings, Inc.",
+                "Universal Music Enterprises",
+                "Quincy Jones Productions",
+                "MJJ Productions Inc.",
+                "Record One, Los Angeles",
+                "Sony Music Studios, New York City",
+                "Sony Music Studios, New York City",
+                "Marvin's Room",
+                "The Hit Factory Criteria",
+                "Sony DADC, Southwater",
+                "Sony DADC, Southwater"
+            ],
+            "type": "release",
+            "barcode": [
+                "5 099752 042227",
+                "BIEM/GEMA",
+                "LC 00199",
+                "5099752042227",
+                "Sony DADC S5204222001-0102 08",
+                "IFPI LY33",
+                "IFPI AEW27",
+                "Sony DADC S5204222001-0202 10",
+                "IFPI LY33",
+                "IFPI AEW24"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/9414910-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "520422 2",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/wcgFF8z2J1qFL9HBBqT35orlP_U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9414910-1480169304-8046.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/pKsPqZwkEAcKX4Arr7GL3G4MJEI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9414910-1480169304-8046.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/9414910",
+            "community": {
+                "want": 36,
+                "have": 255
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "text": "Sony DADC, Southwater",
+                    "descriptions": [
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 831033,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/831033-Michael-Jackson-Woodrow-Sr",
+            "title": "Michael Jackson Woodrow Sr.",
+            "thumb": "https://img.discogs.com/nr0lc78MC_-ATBnXos5vSprkFn4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-831033-1540290480-9187.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/JjnWITh_A9mxXXlf1qCWP7ZwzTo=/349x474/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-831033-1540290480-9187.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/artists/831033"
+        },
+        {
+            "id": 284902,
+            "type": "artist",
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": null,
+            "master_url": null,
+            "uri": "/artist/284902-Michael-James-Jackson",
+            "title": "Michael James Jackson",
+            "thumb": "https://img.discogs.com/s5YFe8eYZxUx8sCiohRzqbIZeng=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-284902-1336225056.png.jpg",
+            "cover_image": "https://img.discogs.com/g1-EuKd6KnIKYfS80jVg9g4Rz1E=/200x200/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-284902-1336225056.png.jpg",
+            "resource_url": "https://api.discogs.com/artists/284902"
+        },
+        {
+            "country": "UK",
+            "year": "2005",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "The Essential"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Disco"
+            ],
+            "id": 4878701,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/4878701-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "EPC 520422 1",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/HSYt3I_Xbh5E_jXFt4yuNUJ7qPM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4878701-1378245100-5574.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/r1xkLunzihDGLyWNsk1GwdApxmw=/fit-in/373x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4878701-1378245100-5574.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/4878701",
+            "community": {
+                "want": 242,
+                "have": 9
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "2",
+                    "text": "Multi coloured pink",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Spain",
+            "year": "1981",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "Motown",
+                "Discos Belter, S.A.",
+                "Sonic, S.A.",
+                "Indugraf Madrid, S.A.",
+                "Motown Recording Studios",
+                "Motown Recording Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Soul"
+            ],
+            "id": 2006452,
+            "barcode": [
+                "SGAE",
+                "B. 2.216-1981",
+                "2-47087 A\u2666",
+                "2-47087 B\u2666",
+                " \u03372\u0337  2-47087 A\u2666 1",
+                "2-47087 B\u2666 1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/release/2006452-Michael-Jackson-The-Best-Of-Michael-Jackson",
+            "catno": "2-47.087",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/2D_c-wc2E7yeGGpiWXk0nXLXmNQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2006452-1361808124-7251.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/1U-zEu17PekGBYXoPTrLiMAFPpM=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006452-1361808124-7251.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/2006452",
+            "community": {
+                "want": 45,
+                "have": 308
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Australia",
+            "year": "1995",
+            "format": [
+                "CD",
+                "Compilation"
+            ],
+            "label": [
+                "Motown",
+                "Polydor",
+                "Motown Record Company, L.P.",
+                "Motown Record Company",
+                "Motown Record Company, L.P.",
+                "Motown Record Company",
+                "PolyGram Australia"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Soul",
+                "Disco"
+            ],
+            "id": 355007,
+            "barcode": [
+                "7  31453 05972  6"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 355007,
+            "master_url": "https://api.discogs.com/masters/355007",
+            "uri": "/Michael-Jackson-With-The-Jackson-Five-The-Very-Best-Of-Michael-Jackson-With-The-Jackson-Five/master/355007",
+            "catno": "530 597-2",
+            "title": "Michael Jackson With The Jackson Five* - The Very Best Of Michael Jackson With The Jackson Five",
+            "thumb": "https://img.discogs.com/v4lKzRhdWEOEWqt_ClHW6WIXKvo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9146930-1475594922-2852.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/TaVIazTsZsHLxHNO0tz5n0dzlvs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9146930-1475594922-2852.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/355007",
+            "community": {
+                "want": 263,
+                "have": 496
+            }
+        },
+        {
+            "country": "UK",
+            "year": "1997",
+            "format": [
+                "Vinyl",
+                "12\""
+            ],
+            "label": [
+                "Earache",
+                "Intercord Record Service",
+                "Dataflow U.K.",
+                "Earache Records UK",
+                "Earache Records UK",
+                "Warner/Chappell",
+                "Complete Music",
+                "P.R. Records Limited"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "IDM",
+                "Techno",
+                "Experimental"
+            ],
+            "id": 117683,
+            "barcode": [
+                "5 018615 118169",
+                "LC 6124",
+                "MOSH 181 - A1 PR-M A",
+                "MOSH 181 - AA1 PR-M P2 A"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 56922,
+            "master_url": "https://api.discogs.com/masters/56922",
+            "uri": "/Scanner-Vs-Signs-Ov-Chaos-Michael-Jackson/release/117683",
+            "catno": "MOSH 181 T",
+            "title": "Scanner Vs Signs Ov Chaos* - Michael Jackson",
+            "thumb": "https://img.discogs.com/lLIp9nslO8xP_Cy_XeU16NtYdbI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-117683-1257296226.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/6aDlLALAD3lrZacvvGovbb4eBG4=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-117683-1257296226.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/117683",
+            "community": {
+                "want": 62,
+                "have": 110
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "12\""
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Japan",
+            "year": "1991",
+            "format": [
+                "CD",
+                "Compilation",
+                "Promo"
+            ],
+            "label": [
+                "Epic"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [],
+            "id": 756827,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 756827,
+            "master_url": "https://api.discogs.com/masters/756827",
+            "uri": "/Michael-Jackson-The-History-Of-Michael-Jackson/master/756827",
+            "catno": "QY\u30fb8P-90093",
+            "title": "Michael Jackson - The History Of Michael Jackson",
+            "thumb": "https://img.discogs.com/V1-boMUMwkLkP5fcmih7vfuK1IM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2446227-1284496946.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/TSoKF7LJGUmFYGWde3q_eCPmzII=/fit-in/471x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2446227-1284496946.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/756827",
+            "community": {
+                "want": 275,
+                "have": 48
+            }
+        },
+        {
+            "country": "Europe",
+            "year": "2001",
+            "format": [
+                "CD",
+                "Compilation",
+                "Remastered"
+            ],
+            "label": [
+                "Motown",
+                "The Universal Masters Collection",
+                "Motown Record Company, L.P.",
+                "Motown Record Company, L.P.",
+                "Universal M & L, Germany",
+                "Jobete Music Co., Inc.",
+                "Recordo Music Pub.",
+                "Mighty Three Music Ltd.",
+                "Island Music Ltd.",
+                "Mainartery"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Soul"
+            ],
+            "id": 499795,
+            "barcode": [
+                "0 44001 34912 6",
+                "BIEM/MCPS",
+                "LC 00881",
+                "MADE IN GERMANY BY UNIVERSAL M & L D",
+                "00440 013 491-2 01 / 51117177",
+                "IFPI L001",
+                "IFPI 0123",
+                "IFPI 0117"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 142525,
+            "master_url": "https://api.discogs.com/masters/142525",
+            "uri": "/Michael-Jackson-Classic-Michael-Jackson/release/499795",
+            "catno": "013 491-2",
+            "title": "Michael Jackson - Classic Michael Jackson",
+            "thumb": "https://img.discogs.com/_2bpa2Jl3fst2V-DTh3sFK1Z71U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-499795-1132008498.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/WEH_9y3t00rkZ75VH8TzWeIhl_I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-499795-1132008498.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/499795",
+            "community": {
+                "want": 23,
+                "have": 176
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "1",
+                    "descriptions": [
+                        "Compilation",
+                        "Remastered"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "South Korea",
+            "year": "1992",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Afidno",
+                "Music Design",
+                "Music Design Records Co. Ltd"
+            ],
+            "type": "master",
+            "genre": [
+                "Pop"
+            ],
+            "style": [],
+            "id": 756828,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 756828,
+            "master_url": "https://api.discogs.com/masters/756828",
+            "uri": "/Michael-Jackson-Michael-Jackson-II/master/756828",
+            "catno": "MDRC-1083",
+            "title": "Michael Jackson - Michael Jackson II",
+            "thumb": "https://img.discogs.com/CXlz_rptS0FFDkhpQKhzjZ3Tzxg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4815323-1589496964-3722.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/jMmQg8Si0RWDtB6SKaKBWutUtgA=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4815323-1589496964-3722.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/756828",
+            "community": {
+                "want": 156,
+                "have": 36
+            }
+        },
+        {
+            "country": "UK",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue",
+                "Repress"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Soul",
+                "Funk"
+            ],
+            "id": 5889692,
+            "label": [
+                "Tamla Motown",
+                "RCA Ltd.",
+                "RCA Ltd.",
+                "Motown Record Corporation",
+                "EMI Records",
+                "Jobete Music (UK) Ltd.",
+                "Belwin Mills Music Ltd.",
+                "United Artists Music Ltd.",
+                "Rondor Music (London) Ltd.",
+                "Carlin Music Corp."
+            ],
+            "type": "release",
+            "barcode": [
+                "STML 12005A",
+                "STML 12005B"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/Michael-Jackson-The-Best-Of-Michael-Jackson/release/5889692",
+            "catno": "STMR 9009",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/NnBqH7aXA2nGOe4zZKElY_18ia4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5889692-1405510032-8015.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/5kmXhYAAEPFIRVtreHIoJ6Vm8I8=/fit-in/330x327/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5889692-1405510032-8015.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/5889692",
+            "community": {
+                "want": 31,
+                "have": 271
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue",
+                        "Repress"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "US",
+            "year": "1984",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Motown"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Soul"
+            ],
+            "id": 288932,
+            "barcode": [
+                "0 5010-95345-1"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 288932,
+            "master_url": "https://api.discogs.com/masters/288932",
+            "uri": "/master/288932-Michael-Jackson-The-Great-Love-Songs-Of-Michael-Jackson",
+            "catno": "5345ML",
+            "title": "Michael Jackson - The Great Love Songs Of Michael Jackson",
+            "thumb": "https://img.discogs.com/ZSuW8i-KujZarjsH13uFwiG37Kg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2467218-1607368831-3754.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/EzbK5aaDNOb-iFZFrX5fDMotnmY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2467218-1607368831-3754.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/288932",
+            "community": {
+                "want": 115,
+                "have": 325
+            }
+        },
+        {
+            "country": "US",
+            "year": "1975",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Album"
+            ],
+            "label": [
+                "Motown"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Rhythm & Blues",
+                "Soul",
+                "Ballad"
+            ],
+            "id": 112680,
+            "barcode": [
+                "MG-825S1-E5RS-7508-1 1-03A #13",
+                "MG-825S1-E5RS-7509-2 2-03A #13",
+                "MG-825S1-E5RS-7508-1 1-03A #12",
+                "MG-825S1-E5RS-7509-2 2-03A #12"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 112680,
+            "master_url": "https://api.discogs.com/masters/112680",
+            "uri": "/master/112680-Michael-Jackson-Forever-Michael",
+            "catno": "M6-825S1",
+            "title": "Michael Jackson - Forever, Michael",
+            "thumb": "https://img.discogs.com/JJgfySP839xaCC0YtqzwLj7aDw8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1652336-1243708843.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/H7zNc_gFNXSyPKrVYrK7P7y4wD8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1652336-1243708843.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/112680",
+            "community": {
+                "want": 4777,
+                "have": 2562
+            }
+        },
+        {
+            "country": "UK",
+            "year": "2017",
+            "format": [
+                "CDr",
+                "Compilation",
+                "Mixed"
+            ],
+            "label": [
+                "DMC",
+                "DMC",
+                "DMC Monsterjam",
+                "Phonographic Performance Ltd"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic",
+                "Hip Hop",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Disco",
+                "Funk",
+                "Dance-pop",
+                "RnB/Swing"
+            ],
+            "id": 9696969,
+            "barcode": [
+                "T80-UG-5 (12089103)",
+                "MCPS"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1347059,
+            "master_url": "https://api.discogs.com/masters/1347059",
+            "uri": "/Michael-Jackson-Michael-Jackson-Monsterjam/release/9696969",
+            "catno": "DMCMJMJ1",
+            "title": "Michael Jackson - Michael Jackson Monsterjam",
+            "thumb": "https://img.discogs.com/GuzBIozH3Ja6a8TX85SGNo_URQ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9696969-1484937906-4072.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/cqDsXv5xJmrstxgXQC3bTkl6biU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9696969-1484937906-4072.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/9696969",
+            "community": {
+                "want": 73,
+                "have": 62
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "CDr",
+                    "qty": "1",
+                    "descriptions": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "2005",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Epic",
+                "Legacy",
+                "The Essential"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic"
+            ],
+            "style": [
+                "Disco"
+            ],
+            "id": 4878688,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 35097,
+            "master_url": "https://api.discogs.com/masters/35097",
+            "uri": "/release/4878688-Michael-Jackson-The-Essential-Michael-Jackson",
+            "catno": "EPC 520422 1",
+            "title": "Michael Jackson - The Essential Michael Jackson",
+            "thumb": "https://img.discogs.com/1gL3SK_nYj6T5obvnKzAg-rk_W8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4878688-1378244803-8311.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/PGDauMXGzD7_3SWgO7wvt45ABgQ=/fit-in/373x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4878688-1378244803-8311.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/4878688",
+            "community": {
+                "want": 188,
+                "have": 12
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "2",
+                    "text": "Clear",
+                    "descriptions": [
+                        "LP",
+                        "Compilation"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Netherlands",
+            "year": "1973",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation"
+            ],
+            "label": [
+                "Tamla Motown",
+                "N.V. Bovema",
+                "Bovema / EMI Studios",
+                "Bovema / EMI Studios"
+            ],
+            "type": "master",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Soul"
+            ],
+            "id": 480408,
+            "barcode": [
+                "5C 056-94121 A//HD18815-1-Y-9",
+                "5C 056-94121 B//HD18816-1-Y-9"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 480408,
+            "master_url": "https://api.discogs.com/masters/480408",
+            "uri": "/Michael-Jackson-Jackson-5-Portrait-Of-Michael-Jackson-Portrait-Of-Jackson-5/master/480408",
+            "catno": "5C 056-94121",
+            "title": "Michael Jackson / Jackson 5* - Portrait Of Michael Jackson / Portrait Of Jackson 5",
+            "thumb": "https://img.discogs.com/y8YpqhRgevv6Gz8wSFbHQnKnlxE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2467158-1430398486-4602.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/_MTCwMEqhy-PtFGFCNje1Yvrp9Y=/fit-in/600x631/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2467158-1430398486-4602.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/480408",
+            "community": {
+                "want": 101,
+                "have": 203
+            }
+        },
+        {
+            "country": "UK & Europe",
+            "year": "1984",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "Tamla Motown",
+                "Tamla Motown",
+                "RCA S.A.",
+                "RCA Schallplatten GmbH",
+                "RCA S.A.",
+                "RCA B.V.",
+                "RCA Ltd.",
+                "Motown Record Corporation",
+                "Sonopress",
+                "Motown Recording Studios",
+                "Motown Recording Studios"
+            ],
+            "type": "release",
+            "genre": [
+                "Funk / Soul"
+            ],
+            "style": [
+                "Soul"
+            ],
+            "id": 1078600,
+            "barcode": [
+                "0 035627 206313",
+                "0035627206313",
+                "LC 0363",
+                "GEMA BIEM",
+                "AG",
+                "RC 330",
+                "FF",
+                "[Embossed bass clef symbol \ud834\udd22]",
+                "WK 72063",
+                "DM E-0215 A - 2/84 S \u2162 \u2162",
+                "DM E-0215 B - 2/84 S \u2162 \u2162",
+                "\ud83c\udd62"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 101877,
+            "master_url": "https://api.discogs.com/masters/101877",
+            "uri": "/Michael-Jackson-The-Best-Of-Michael-Jackson/release/1078600",
+            "catno": "WL 72063",
+            "title": "Michael Jackson - The Best Of Michael Jackson",
+            "thumb": "https://img.discogs.com/uB1687DfcIZGOEniSJoBkXhVGCk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1078600-1614850307-9050.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/D5DUbekJA_L42ZIN-hFetlwS7P8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1078600-1614850307-9050.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1078600",
+            "community": {
+                "want": 37,
+                "have": 256
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "text": "33 \u2153 RPM",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "USA & Canada",
+            "year": "2019",
+            "format": [
+                "Lathe Cut",
+                "LP",
+                "Single Sided",
+                "Limited Edition",
+                "Unofficial Release",
+                "Stereo"
+            ],
+            "label": [
+                "SELECT/START Records"
+            ],
+            "type": "master",
+            "genre": [
+                "Electronic",
+                "Pop"
+            ],
+            "style": [
+                "Chiptune"
+            ],
+            "id": 1519851,
+            "barcode": [],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 1519851,
+            "master_url": "https://api.discogs.com/masters/1519851",
+            "uri": "/Hiroshi-Kubota-Roppyaku-Tsurumi-Michael-Jackson-Michael-Jacksons-Moonwalker/master/1519851",
+            "catno": "SSR-005",
+            "title": "Hiroshi Kubota, Roppyaku Tsurumi, Michael Jackson - Michael Jackson's Moonwalker",
+            "thumb": "https://img.discogs.com/WbcPTHaUc08P-1E2BlV4N02Jlsc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13306165-1551764876-4043.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/L3w6ShdeSHPS-PzUXyvY3Wy7gN0=/fit-in/586x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13306165-1551764876-4043.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/masters/1519851",
+            "community": {
+                "want": 112,
+                "have": 124
+            }
+        },
+        {
+            "country": "Japan",
+            "year": "2018",
+            "format": [
+                "Vinyl",
+                "LP",
+                "Compilation",
+                "Reissue"
+            ],
+            "label": [
+                "Motown",
+                "Universal Music",
+                "USM Japan",
+                "Universal Music LLC",
+                "Universal Music LLC",
+                "Lawson HMV Entertainment, Inc.",
+                "Universal Music LLC",
+                "HMV Record Shop"
+            ],
+            "type": "release",
+            "genre": [
+                "Reggae",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Dub",
+                "Rhythm & Blues",
+                "Soul",
+                "Lovers Rock"
+            ],
+            "id": 11722001,
+            "barcode": [
+                "4988031262245"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 536757,
+            "master_url": "https://api.discogs.com/masters/536757",
+            "uri": "/Hiroshi-Fujiwara-KUDO-Presents-Michael-Jackson-Jackson-5-Michael-Jackson-Jackson-5-Remixes/release/11722001",
+            "catno": "PROT-7022",
+            "title": "Hiroshi Fujiwara & K.U.D.O.* Presents Michael Jackson / Jackson 5* - Michael Jackson / Jackson 5 Remixes",
+            "thumb": "https://img.discogs.com/19ghq3dTiePj_mIM0ZPLsZGhiFc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11722001-1523001209-1848.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/Q434GQE2TsWKNAq7KPkZpfCPDBg=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11722001-1523001209-1848.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/11722001",
+            "community": {
+                "want": 156,
+                "have": 54
+            },
+            "format_quantity": 1,
+            "formats": [
+                {
+                    "name": "Vinyl",
+                    "qty": "1",
+                    "descriptions": [
+                        "LP",
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "UK",
+            "year": "1987",
+            "format": [
+                "CD",
+                "Compilation",
+                "Mixed"
+            ],
+            "label": [
+                "Stylus Music"
+            ],
+            "type": "release",
+            "genre": [
+                "Electronic",
+                "Funk / Soul",
+                "Pop"
+            ],
+            "style": [
+                "Ballad",
+                "Disco"
+            ],
+            "id": 1299833,
+            "barcode": [
+                "5014052874521"
+            ],
+            "user_data": {
+                "in_wantlist": false,
+                "in_collection": false
+            },
+            "master_id": 275440,
+            "master_url": "https://api.discogs.com/masters/275440",
+            "uri": "/Michael-Jackson-The-Jackson-5-The-Michael-Jackson-Mix/release/1299833",
+            "catno": "SMD 745",
+            "title": "Michael Jackson / The Jackson 5 - The Michael Jackson Mix",
+            "thumb": "https://img.discogs.com/uUkI9BHBMR79nqbh5DY4UpVg7lM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1299833-1248949358.jpeg.jpg",
+            "cover_image": "https://img.discogs.com/WDTC6iU9eNRtknETfi6IHDFaBi4=/fit-in/557x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299833-1248949358.jpeg.jpg",
+            "resource_url": "https://api.discogs.com/releases/1299833",
+            "community": {
+                "want": 61,
+                "have": 182
+            },
+            "format_quantity": 2,
+            "formats": [
+                {
+                    "name": "CD",
+                    "qty": "2",
+                    "descriptions": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            ]
+        }
+    ]
+}
