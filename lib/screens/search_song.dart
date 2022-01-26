@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:singify_project/model/song.dart';
+import 'package:singify_project/screens/song_screen.dart';
 
 class SearchSongScreen extends StatefulWidget {
   final String userEmail;
@@ -60,19 +61,38 @@ class _SearchSongScreenState extends State<SearchSongScreen> {
               future: searchSongs(controller.text),
               builder:
                   (BuildContext context, AsyncSnapshot<List<Song>> snapshot) {
-                if (!snapshot.hasData) {
-                  return const Center(
-                    child: CircularProgressIndicator(),
-                  );
-                } else if (snapshot.hasData && controller.text == '') {
-                  return const Center(child: Text('Search song'));
+                switch (snapshot.connectionState) {
+                  case ConnectionState.none:
+                    return const Center(child: Text('None'));
+                  case ConnectionState.waiting:
+                    return const Center(child: CircularProgressIndicator());
+                  case ConnectionState.active:
+                    return const Center(child: Text('Active'));
+                  case ConnectionState.done:
+                    if (snapshot.hasData && controller.text != '') {
+                      List<Song> list = snapshot.data!;
+                      return ListView.builder(
+                        itemBuilder: (context, index) {
+                          return ListTile(
+                            leading: const Text("Image"),
+                            title: Text(list[index].title),
+                            onTap: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => SongScreen(
+                                          title: list[index].title,
+                                        )),
+                              );
+                            },
+                          );
+                        },
+                        itemCount: 10,
+                      );
+                    }
+                    break;
                 }
-                return ListView.builder(
-                  itemBuilder: (context, index) {
-                    return Text('${controller.text} data loaded!');
-                  },
-                  itemCount: 50,
-                );
+                return const Center();
               },
             ),
           )

@@ -1,5 +1,7 @@
+//import 'dart:html';
+
 import 'package:flutter/material.dart';
-import 'package:singify_project/model/song.dart';
+import 'package:singify_project/model/artist.dart';
 
 class SearchArtistScreen extends StatefulWidget {
   final String userEmail;
@@ -58,22 +60,33 @@ class _SearchArtistScreenState extends State<SearchArtistScreen> {
           ),
           Expanded(
             child: FutureBuilder(
-              future: searchSongs(controller.text),
+              future: searchArtists(controller.text),
               builder:
-                  (BuildContext context, AsyncSnapshot<List<Song>> snapshot) {
-                if (!snapshot.hasData) {
-                  return const Center(
-                    child: CircularProgressIndicator(),
-                  );
-                } else if (snapshot.hasData && controller.text == '') {
-                  return const Center(child: Text('Search artist'));
+                  (BuildContext context, AsyncSnapshot<List<Artist>> snapshot) {
+                switch (snapshot.connectionState) {
+                  case ConnectionState.none:
+                    return const Center(child: Text('None'));
+                  case ConnectionState.waiting:
+                    return const Center(child: CircularProgressIndicator());
+                  case ConnectionState.active:
+                    return const Center(child: Text('Active'));
+                  case ConnectionState.done:
+                    if (snapshot.hasData && controller.text != '') {
+                      List<Artist> list = snapshot.data!;
+                      return ListView.builder(
+                        itemBuilder: (context, index) {
+                          return ListTile(
+                            leading: const Text("Image"),
+                            title: Text(list[index].name),
+                          );
+                        },
+                        itemCount: 10,
+                      );
+                    }
+                    break;
                 }
-                return ListView.builder(
-                  itemBuilder: (context, index) {
-                    return Text('${controller.text} data loaded!');
-                  },
-                  itemCount: 50,
-                );
+
+                return const Center();
               },
             ),
           )
