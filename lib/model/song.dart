@@ -17,7 +17,6 @@ Future<List<Song>> searchSongs(String query) async {
         list.removeAt(i);
       }
     }
-    int i = 0;
     return list.map((m) => Song.fromJson(m)).toList();
   } catch (e) {
     rethrow;
