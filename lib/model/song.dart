@@ -1,8 +1,12 @@
+// ignore_for_file: prefer_null_aware_operators
+
 import 'dart:convert';
 //import 'dart:ffi';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:singify_project/model/user.dart';
+
 import 'config.dart';
 import 'package:http/http.dart' as http;
-import 'package:singify_project/model/artist.dart';
 
 Future<List<Song>> searchSongs(String query) async {
   try {
@@ -23,9 +27,24 @@ Future<List<Song>> searchSongs(String query) async {
   }
 }
 
+Stream<List<Song>> retrieveSongs(UserData user) {
+  return FirebaseFirestore.instance
+      .collection('users')
+      .doc(user.email)
+      .collection('favourites')
+      .snapshots()
+      .map(_songRetrieverFromSnapshot);
+}
+
+List<Song> _songRetrieverFromSnapshot(QuerySnapshot snapshot) {
+  return snapshot.docs.map((doc) {
+    return Song.fromFirestore(doc);
+  }).toList();
+}
+
 class Song {
   String title;
-  Artist artist;
+  String artist;
   String cover;
   String year;
   List<String>? format;
@@ -35,13 +54,23 @@ class Song {
   String catalogNumber;
   String link;
 
+  Song.fromFirestore(DocumentSnapshot doc)
+      : title = doc.id,
+        artist = doc['artname'],
+        cover = doc['cover'],
+        year = doc['year'],
+        catalogNumber = doc['catno'],
+        link = doc['link'],
+        format = doc['format'].cast<String>(),
+        label = doc['label'].cast<String>(),
+        genre = doc['genre'].cast<String>(),
+        style = doc['style'].cast<String>();
+
   Song.fromJson(Map<String, dynamic> json)
       : title = (json['title'] as String)
             .substring((json['title'] as String).indexOf('-') + 2),
-        artist = Artist.fromSong(
-          (json['title'] as String)
-              .substring(0, (json['title'] as String).indexOf('-') - 1),
-        ),
+        artist = (json['title'] as String)
+            .substring(0, (json['title'] as String).indexOf('-') - 1),
         cover = json['cover_image'],
         year = json['year'].toString(),
         format = json['format'] != null
@@ -57,5 +86,5 @@ class Song {
             ? json['style'].map<String>((s) => s as String).toList()
             : null,
         catalogNumber = json['catno'].toString(),
-        link = "www.discogs.com/" + json['uri'];
+        link = "www.discogs.com" + json['uri'];
 }

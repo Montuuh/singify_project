@@ -1,5 +1,7 @@
 import 'dart:convert';
 //import 'dart:ffi';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:singify_project/model/user.dart';
 import 'config.dart';
 import 'package:http/http.dart' as http;
 
@@ -22,10 +24,38 @@ Future<List<Artist>> searchArtists(String query) async {
   }
 }
 
+Stream<List<Artist>> retrieveArtists(UserData user) {
+  return FirebaseFirestore.instance
+      .collection('users')
+      .doc(user.email)
+      .collection('artists')
+      .snapshots()
+      .map(_songRetrieverFromSnapshot);
+}
+
+List<Artist> _songRetrieverFromSnapshot(QuerySnapshot snapshot) {
+  return snapshot.docs.map((doc) {
+    return Artist.fromFirestore(doc);
+  }).toList();
+}
+
+Future<Artist> retrieveArtistFromName(String name) async {
+  List<Artist> artists = await searchArtists(name);
+  return artists.first;
+}
+
 class Artist {
   String name;
+  String cover;
+  String link;
 
-  Artist.fromJson(Map<String, dynamic> json) : name = json['title'];
+  Artist.fromJson(Map<String, dynamic> json)
+      : name = json['title'],
+        cover = json['cover_image'],
+        link = "www.discogs.com" + json['uri'];
 
-  Artist.fromSong(String artistName) : name = artistName;
+  Artist.fromFirestore(DocumentSnapshot doc)
+      : name = doc.id,
+        cover = doc['cover'],
+        link = doc['link'];
 }

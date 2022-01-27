@@ -1,30 +1,30 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 //import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:singify_project/model/artist.dart';
 import 'package:singify_project/model/song.dart';
 import 'package:singify_project/model/user.dart';
-import 'package:flutter/services.dart';
+import 'package:singify_project/screens/artist_screen.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:url_launcher/link.dart';
 
 class SongScreen extends StatefulWidget {
   SongScreen({
     Key? key,
     required this.song,
     required this.user,
+    required this.favourite,
   }) : super(key: key);
 
   final Song song;
   final UserData user;
   final db = FirebaseFirestore.instance;
+  bool favourite;
 
   @override
   State<SongScreen> createState() => _SongScreenState();
 }
 
 class _SongScreenState extends State<SongScreen> {
-  bool favourite = false;
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -36,14 +36,13 @@ class _SongScreenState extends State<SongScreen> {
             IconButton(
               onPressed: () {
                 setState(() {
-                  favourite = !favourite;
+                  widget.favourite = !widget.favourite;
                 });
-                favourite
-                    ? addFavourite(
-                        widget.user.email, widget.song.title, widget.song.cover)
+                widget.favourite
+                    ? addFavourite(widget.user.email, widget.song)
                     : removeFavourite(widget.user.email, widget.song.title);
               },
-              icon: favourite
+              icon: widget.favourite
                   ? const Icon(Icons.star)
                   : const Icon(Icons.star_border),
             )
@@ -77,7 +76,31 @@ class _SongScreenState extends State<SongScreen> {
               indent: 20,
               endIndent: 20,
             ),
-            TextInfo(header: "Artist", text: widget.song.artist.name),
+            Wrap(
+              alignment: WrapAlignment.center,
+              children: [
+                TextInfo(header: "Artist", text: widget.song.artist),
+                IconButton(
+                  onPressed: () async {
+                    Artist artist =
+                        await retrieveArtistFromName(widget.song.artist);
+                    bool fav =
+                        await isArtistFavourite(widget.user.email, artist.name);
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => ArtistScreen(
+                          artist: artist,
+                          user: widget.user,
+                          favourite: fav,
+                        ),
+                      ),
+                    );
+                  },
+                  icon: const Icon(Icons.travel_explore),
+                )
+              ],
+            ),
             TextInfo(header: "Year", text: widget.song.year),
             TextInfo(header: "Catalog Num", text: widget.song.catalogNumber),
             TextButton(

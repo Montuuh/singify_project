@@ -34,8 +34,8 @@ class _SearchArtistScreenState extends State<SearchArtistScreen> {
       appBar: AppBar(
         title: const Text('Search Artist'),
         automaticallyImplyLeading: false,
-        foregroundColor: Theme.of(context).primaryColor,
-        backgroundColor: Theme.of(context).backgroundColor,
+        foregroundColor: Colors.amber[800],
+        backgroundColor: Colors.black87,
       ),
       body: Column(
         children: [
@@ -45,11 +45,17 @@ class _SearchArtistScreenState extends State<SearchArtistScreen> {
             color: Colors.white10,
             child: Center(
               child: TextField(
-                decoration: const InputDecoration(
-                  hintText: 'Type an artist name...',
-                  prefixIcon: Icon(Icons.search),
-                ),
                 controller: controller,
+                decoration: InputDecoration(
+                  hintText: 'Type an artist name...',
+                  prefixIcon: const Icon(Icons.search),
+                  suffixIcon: IconButton(
+                    onPressed: () {
+                      controller.clear();
+                    },
+                    icon: const Icon(Icons.clear),
+                  ),
+                ),
                 onSubmitted: (String value) {
                   setState(() {
                     controller.text = value;
@@ -75,19 +81,27 @@ class _SearchArtistScreenState extends State<SearchArtistScreen> {
                       List<Artist> list = snapshot.data!;
                       return ListView.builder(
                         itemBuilder: (context, index) {
-                          return ListTile(
-                            leading: const Text("Image"),
-                            title: Text(list[index].name),
-                            onTap: () {
-                              Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                  builder: (context) => ArtistScreen(
-                                    title: list[index].name,
+                          Artist artist = list[index];
+                          return Padding(
+                            padding: const EdgeInsets.all(8.0),
+                            child: ListTile(
+                              leading: Image.network(artist.cover),
+                              title: Text(artist.name),
+                              onTap: () async {
+                                bool fav = await isArtistFavourite(
+                                    widget.user.email, artist.name);
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => ArtistScreen(
+                                      artist: artist,
+                                      user: widget.user,
+                                      favourite: fav,
+                                    ),
                                   ),
-                                ),
-                              );
-                            },
+                                );
+                              },
+                            ),
                           );
                         },
                         itemCount: list.length,
@@ -95,7 +109,6 @@ class _SearchArtistScreenState extends State<SearchArtistScreen> {
                     }
                     break;
                 }
-
                 return const Center();
               },
             ),

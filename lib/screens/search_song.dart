@@ -85,14 +85,17 @@ class _SearchSongScreenState extends State<SearchSongScreen> {
                             child: ListTile(
                               leading: Image.network(song.cover),
                               title: Text(song.title),
-                              subtitle: Text(song.artist.name),
-                              onTap: () {
+                              subtitle: Text(song.artist),
+                              onTap: () async {
+                                bool fav = await isSongFavourite(
+                                    widget.user.email, song.title);
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
                                     builder: (context) => SongScreen(
                                       song: song,
                                       user: widget.user,
+                                      favourite: fav,
                                     ),
                                   ),
                                 );
