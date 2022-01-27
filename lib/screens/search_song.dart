@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:singify_project/model/song.dart';
+import 'package:singify_project/model/user.dart';
 import 'package:singify_project/screens/song_screen.dart';
 
 class SearchSongScreen extends StatefulWidget {
-  final String userEmail;
-  const SearchSongScreen({Key? key, required this.userEmail}) : super(key: key);
+  final UserData user;
+  const SearchSongScreen({Key? key, required this.user}) : super(key: key);
 
   @override
   State<SearchSongScreen> createState() => _SearchSongScreenState();
 }
 
 class _SearchSongScreenState extends State<SearchSongScreen> {
-  final String query = 'Nirvana';
   late TextEditingController controller;
 
   @override
@@ -43,11 +43,17 @@ class _SearchSongScreenState extends State<SearchSongScreen> {
             color: Colors.white10,
             child: Center(
               child: TextField(
-                decoration: const InputDecoration(
-                  hintText: 'Type a song name...',
-                  prefixIcon: Icon(Icons.search),
-                ),
                 controller: controller,
+                decoration: InputDecoration(
+                  hintText: 'Type a song name...',
+                  prefixIcon: const Icon(Icons.search),
+                  suffixIcon: IconButton(
+                    onPressed: () {
+                      controller.clear();
+                    },
+                    icon: const Icon(Icons.clear),
+                  ),
+                ),
                 onSubmitted: (String value) {
                   setState(() {
                     controller.text = value;
@@ -73,21 +79,28 @@ class _SearchSongScreenState extends State<SearchSongScreen> {
                       List<Song> list = snapshot.data!;
                       return ListView.builder(
                         itemBuilder: (context, index) {
-                          return ListTile(
-                            leading: const Text("Image"),
-                            title: Text(list[index].title),
-                            onTap: () {
-                              Navigator.push(
-                                context,
-                                MaterialPageRoute(
+                          Song song = list[index];
+                          return Padding(
+                            padding: const EdgeInsets.all(8.0),
+                            child: ListTile(
+                              leading: Image.network(song.cover),
+                              title: Text(song.title),
+                              subtitle: Text(song.artist.name),
+                              onTap: () {
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
                                     builder: (context) => SongScreen(
-                                          title: list[index].title,
-                                        )),
-                              );
-                            },
+                                      song: song,
+                                      user: widget.user,
+                                    ),
+                                  ),
+                                );
+                              },
+                            ),
                           );
                         },
-                        itemCount: 10,
+                        itemCount: list.length,
                       );
                     }
                     break;

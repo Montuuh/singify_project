@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:singify_project/model/user.dart';
 import 'package:singify_project/screens/home.dart';
 import 'package:singify_project/screens/library.dart';
 import 'package:singify_project/screens/search_artist.dart';
@@ -6,8 +7,8 @@ import 'package:singify_project/screens/search_song.dart';
 import 'package:singify_project/widgets/bottom_bar.dart';
 
 class ScreenManager extends StatefulWidget {
-  final String userEmail;
-  const ScreenManager({Key? key, required this.userEmail}) : super(key: key);
+  final UserData user;
+  const ScreenManager({Key? key, required this.user}) : super(key: key);
 
   @override
   _ScreenManagerState createState() => _ScreenManagerState();
@@ -18,15 +19,15 @@ class _ScreenManagerState extends State<ScreenManager> {
 
   Widget _centralScreen() {
     if (screen == 1) {
-      return SearchArtistScreen(userEmail: widget.userEmail.toString());
+      return SearchArtistScreen(user: widget.user);
     } else if (screen == 2) {
-      return SearchSongScreen(userEmail: widget.userEmail.toString());
+      return SearchSongScreen(user: widget.user);
     } else if (screen == 3) {
-      return LibraryScreen(userEmail: widget.userEmail.toString());
+      return LibraryScreen(user: widget.user);
     }
 
     screen = 0;
-    return HomeScreen(userEmail: widget.userEmail.toString());
+    return HomeScreen(userEmail: widget.user.email);
   }
 
   @override

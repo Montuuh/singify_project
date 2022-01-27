@@ -10,8 +10,11 @@ Future<List<Artist>> searchArtists(String query) async {
     final response = await http.get(uri);
     final json = jsonDecode(response.body);
     final list = json['results'] as List;
-    for (int i = 0; i < list.length; i++) {
-      if (list[i]['type'] != "artist") list.removeAt(i);
+    int length = list.length;
+    for (int i = length - 1; i > -1; i--) {
+      if (list[i]['type'] != "artist") {
+        list.removeAt(i);
+      }
     }
     return list.map((m) => Artist.fromJson(m)).toList();
   } catch (e) {

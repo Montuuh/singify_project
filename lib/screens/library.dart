@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:singify_project/model/user.dart';
 
 class LibraryScreen extends StatelessWidget {
-  final String userEmail;
-  const LibraryScreen({Key? key, required this.userEmail}) : super(key: key);
+  final UserData user;
+  const LibraryScreen({Key? key, required this.user}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

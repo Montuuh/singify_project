@@ -2,18 +2,18 @@
 
 import 'package:flutter/material.dart';
 import 'package:singify_project/model/artist.dart';
+import 'package:singify_project/model/user.dart';
+import 'package:singify_project/screens/artist_screen.dart';
 
 class SearchArtistScreen extends StatefulWidget {
-  final String userEmail;
-  const SearchArtistScreen({Key? key, required this.userEmail})
-      : super(key: key);
+  final UserData user;
+  const SearchArtistScreen({Key? key, required this.user}) : super(key: key);
 
   @override
   State<SearchArtistScreen> createState() => _SearchArtistScreenState();
 }
 
 class _SearchArtistScreenState extends State<SearchArtistScreen> {
-  final String query = 'Nirvana';
   late TextEditingController controller;
 
   @override
@@ -78,9 +78,19 @@ class _SearchArtistScreenState extends State<SearchArtistScreen> {
                           return ListTile(
                             leading: const Text("Image"),
                             title: Text(list[index].name),
+                            onTap: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => ArtistScreen(
+                                    title: list[index].name,
+                                  ),
+                                ),
+                              );
+                            },
                           );
                         },
-                        itemCount: 10,
+                        itemCount: list.length,
                       );
                     }
                     break;
