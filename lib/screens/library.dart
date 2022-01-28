@@ -77,12 +77,14 @@ class HighText extends StatelessWidget {
     required this.padding,
     this.deltaFontSize,
     this.colon = true,
+    this.centered = false,
   }) : super(key: key);
 
   final String text;
   final double padding;
   final double? deltaFontSize;
   final bool colon;
+  final bool centered;
 
   @override
   Widget build(BuildContext context) {
@@ -90,6 +92,7 @@ class HighText extends StatelessWidget {
       padding: EdgeInsets.symmetric(vertical: padding),
       child: Text(
         text + (colon ? ": " : " "),
+        textAlign: centered ? TextAlign.center : TextAlign.start,
         style: TextStyle(
           fontSize: 20 + (deltaFontSize ?? 0),
           fontWeight: FontWeight.bold,

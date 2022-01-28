@@ -16,6 +16,7 @@ class ScreenManager extends StatefulWidget {
 
 class _ScreenManagerState extends State<ScreenManager> {
   int screen = 0;
+  int pageIndex = 0;
 
   Widget _centralScreen() {
     if (screen == 1) {
@@ -27,7 +28,7 @@ class _ScreenManagerState extends State<ScreenManager> {
     }
 
     screen = 0;
-    return HomeScreen(userEmail: widget.user.email);
+    return HomeScreen(user: widget.user);
   }
 
   @override

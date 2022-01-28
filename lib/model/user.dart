@@ -104,6 +104,11 @@ Future<bool> isSongFavourite(String userEmail, String name) async {
 
 class UserData {
   String email;
+  String name;
+  String? profileImage;
 
-  UserData.newUser(User user) : email = user.email.toString();
+  UserData.newUser(User user)
+      : email = user.email.toString(),
+        name = user.displayName ?? user.email.toString(),
+        profileImage = user.photoURL;
 }

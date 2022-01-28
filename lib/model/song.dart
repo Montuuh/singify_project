@@ -27,6 +27,25 @@ Future<List<Song>> searchSongs(String query) async {
   }
 }
 
+Future<List<Song>> searchArtistSongs(String name) async {
+  try {
+    final uri = Uri.https(
+        "api.discogs.com", "/database/search", {"q": name, "token": token});
+    final response = await http.get(uri);
+    final json = jsonDecode(response.body);
+    final list = json['results'] as List;
+    int length = list.length;
+    for (int i = length - 1; i > -1; i--) {
+      if (list[i]['type'] == "artist" || list[i]['type'] == "label") {
+        list.removeAt(i);
+      }
+    }
+    return list.map((m) => Song.fromJson(m)).toList();
+  } catch (e) {
+    rethrow;
+  }
+}
+
 Stream<List<Song>> retrieveSongs(UserData user) {
   return FirebaseFirestore.instance
       .collection('users')
