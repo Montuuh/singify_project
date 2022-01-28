@@ -3,11 +3,12 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:singify_project/model/artist.dart';
 import 'package:singify_project/model/song.dart';
 
-void addUser(String userEmail) {
+void addUser(UserData user) {
   final db = FirebaseFirestore.instance;
-  db.doc('/users/$userEmail').set({});
-  addCollection('/users/$userEmail/favourites');
-  addCollection('/users/$userEmail/artists');
+  String email = user.email;
+  db.doc('/users/$email').set({});
+  addCollection('/users/$email/favourites');
+  addCollection('/users/$email/artists');
 }
 
 void deleteUser(String userEmail) {
@@ -17,7 +18,8 @@ void deleteUser(String userEmail) {
 
 void addCollection(String collectionPath) {
   final db = FirebaseFirestore.instance;
-  db.collection(collectionPath).add({});
+  db.collection(collectionPath).add({'to': "delete"});
+  db.collection(collectionPath).doc('to').delete();
 }
 
 void addValue(String collectionPath, String title, dynamic value) {
